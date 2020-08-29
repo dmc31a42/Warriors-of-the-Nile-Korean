@@ -1,0 +1,4950 @@
+#: 1
+msgctxt "Achievement_Got"
+msgid "Achevements"
+msgstr "도전과제"
+
+#: 2
+msgctxt "BattleReward_Card_Normal"
+msgid "Prophecy Tablet"
+msgstr ""
+
+#: 3
+msgctxt "BattleReward_Card_Rare"
+msgid "Divine Tablet"
+msgstr ""
+
+#: 4
+msgctxt "BattleReward_Equip_Normal"
+msgid "Gear Chest"
+msgstr ""
+
+#: 5
+msgctxt "BattleReward_Equip_Rare"
+msgid "Artifact Chest"
+msgstr ""
+
+#: 6
+msgctxt "BattleReward_Shop"
+msgid "Trader"
+msgstr ""
+
+#: 7
+msgctxt "Bonus_01_Description"
+msgid "Complete chapter one."
+msgstr ""
+
+#: 8
+msgctxt "Bonus_01_Name"
+msgid "Desert Warriors"
+msgstr ""
+
+#: 9
+msgctxt "Bonus_02_Description"
+msgid "Complete chapter two."
+msgstr ""
+
+#: 10
+msgctxt "Bonus_02_Name"
+msgid "Pharaoh's Warriors"
+msgstr ""
+
+#: 11
+msgctxt "Bonus_03_Description"
+msgid "Complete chapter three."
+msgstr ""
+
+#: 12
+msgctxt "Bonus_03_Name"
+msgid "Divine Warriors"
+msgstr ""
+
+#: 13
+msgctxt "Bonus_04_Description"
+msgid "Attain victory without any character dying."
+msgstr ""
+
+#: 14
+msgctxt "Bonus_04_Name"
+msgid "Perfect"
+msgstr ""
+
+#: 15
+msgctxt "Bonus_05_Description"
+msgid "Attain victory within [*] hour(s)."
+msgstr ""
+
+#: 16
+msgctxt "Bonus_05_Name"
+msgid "Rapid March"
+msgstr ""
+
+#: 17
+msgctxt "Bonus_06_Description"
+msgid "Attain victory within [*] minutes."
+msgstr ""
+
+#: 18
+msgctxt "Bonus_06_Name"
+msgid "Swift Victory"
+msgstr ""
+
+#: 19
+msgctxt "Bonus_07_Description"
+msgid "Have at least [*] tablets on each character."
+msgstr ""
+
+#: 20
+msgctxt "Bonus_07_Name"
+msgid "Equal Importance"
+msgstr ""
+
+#: 21
+msgctxt "Bonus_08_Description"
+msgid "Have at least [*] pieces of gear."
+msgstr ""
+
+#: 22
+msgctxt "Bonus_08_Name"
+msgid "More is Better"
+msgstr ""
+
+#: 23
+msgctxt "Bonus_09_Description"
+msgid "Build a level three structure."
+msgstr ""
+
+#: 24
+msgctxt "Bonus_09_Name"
+msgid "Piety"
+msgstr ""
+
+#: 25
+msgctxt "Bonus_10_Description"
+msgid "Kill [*] or more monsters that drop gold."
+msgstr ""
+
+#: 26
+msgctxt "Bonus_10_Name"
+msgid "Gold Chaser"
+msgstr ""
+
+#: 27
+msgctxt "Bonus_11_Description"
+msgid "Kill [*] or more monsters that drop chests."
+msgstr ""
+
+#: 28
+msgctxt "Bonus_11_Name"
+msgid "Chest Chaser"
+msgstr ""
+
+#: 29
+msgctxt "Bonus_12_Description"
+msgid "Purchase [*] or more gear."
+msgstr ""
+
+#: 30
+msgctxt "Bonus_12_Name"
+msgid "Shopaholic"
+msgstr ""
+
+#: 31
+msgctxt "Bonus_13_Description"
+msgid "Attain victory without choosing any recovery tablet."
+msgstr ""
+
+#: 32
+msgctxt "Bonus_13_Name"
+msgid "What is healing?"
+msgstr ""
+
+#: 33
+msgctxt "Bonus_14_Description"
+msgid "Attain victory with only one character remaining."
+msgstr ""
+
+#: 34
+msgctxt "Bonus_14_Name"
+msgid "Close Victory"
+msgstr ""
+
+#: 35
+msgctxt "Bonus_15_Description"
+msgid "Attain victory after your characters have died at least [*] times."
+msgstr ""
+
+#: 36
+msgctxt "Bonus_15_Name"
+msgid "Through Fire"
+msgstr ""
+
+#: 37
+msgctxt "Bonus_16_Description"
+msgid "Obtain at least [*] gold."
+msgstr ""
+
+#: 38
+msgctxt "Bonus_16_Name"
+msgid "Gold Aplenty"
+msgstr ""
+
+#: 39
+msgctxt "Bonus_17_Description"
+msgid "Attain victory while in possession of at least [*] legendary tablets."
+msgstr ""
+
+#: 40
+msgctxt "Bonus_17_Name"
+msgid "Lucky Much"
+msgstr ""
+
+#: 41
+msgctxt "Bonus_18_Description"
+msgid "Attain victory with your characters possessing less than [*] tablets."
+msgstr ""
+
+#: 42
+msgctxt "Bonus_18_Name"
+msgid "Tablets? Bah!"
+msgstr ""
+
+#: 43
+msgctxt "Bonus_19_Description"
+msgid "Attain your first victory."
+msgstr ""
+
+#: 44
+msgctxt "Bonus_19_Name"
+msgid "Power of the Sun"
+msgstr ""
+
+#: 45
+msgctxt "Bonus_20_Description"
+msgid "Win [*] times in a row."
+msgstr ""
+
+#: 46
+msgctxt "Bonus_20_Name"
+msgid "Win-streak"
+msgstr ""
+
+#: 47
+msgctxt "Bonus_21_Description"
+msgid "Clear [*] stages."
+msgstr ""
+
+#: 48
+msgctxt "Bonus_21_Name"
+msgid "Expedition"
+msgstr ""
+
+#: 49
+msgctxt "Bonus_22_Description"
+msgid "Increases total score by [*]%."
+msgstr ""
+
+#: 50
+msgctxt "Bonus_22_Name"
+msgid "Hard Mode"
+msgstr ""
+
+#: 51
+msgctxt "Boss01_InfoText"
+msgid "Restless Pharaoh's dark powers never cease to empower his army. He also summons protectors to stop you from advancing."
+msgstr ""
+
+#: 52
+msgctxt "Boss02_InfoText"
+msgid "Fanatics that have dedicated their body and mind to the gods. Their extraordinary powers awaken in times of danger."
+msgstr ""
+
+#: 53
+msgctxt "Boss03_InfoText"
+msgid "A merciless warlord and his underlings that instill fear in all who lay eyes upon them."
+msgstr ""
+
+#: 54
+msgctxt "Boss04_InfoText"
+msgid "A murmuring sarcophagus of an ancient deity. It seems as if a destructive power is awakening from within."
+msgstr ""
+
+#: 55
+msgctxt "Boss05_InfoText"
+msgid "The cruel queen will summon aid to her side when faced with danger."
+msgstr ""
+
+#: 56
+msgctxt "Boss06_InfoText"
+msgid "The God of the Moon will summon endless mirages to rip his enemies to shreds."
+msgstr ""
+
+#: 57
+msgctxt "Boss07_InfoText"
+msgid "The Incarnation of Apophis who yearns to devour the sun itself. It is our warriors' ultimate enemy."
+msgstr ""
+
+#: 58
+msgctxt "BuildingPanel_BuildTips_DoubleClick"
+msgid "Click again to confirm"
+msgstr ""
+
+#: 59
+msgctxt "BuildingPanel_BuildTips_NotEnoughGold"
+msgid "Not enough gold"
+msgstr ""
+
+#: 60
+msgctxt "BuildingPanel_BuildTips_Room"
+msgid "No room for Carving"
+msgstr ""
+
+#: 61
+msgctxt "BuildingPanel_RightBoardTips_01"
+msgid "Create a level [*] carving."
+msgstr ""
+
+#: 62
+msgctxt "BuildingPanel_RightBoardTips_02"
+msgid "Level [*] carving created."
+msgstr ""
+
+#: 63
+msgctxt "BuildingPanel_RightBoardTips_03"
+msgid "You have not yet unlocked these carvings."
+msgstr ""
+
+#: 64
+msgctxt "BuildingPanel_RightBoardTips_04"
+msgid "You have created all carvings."
+msgstr ""
+
+#: 65
+msgctxt "Building_Lv_1_01_Description"
+msgid "All characters are healed for [*] Health at the start of each boss battle."
+msgstr ""
+
+#: 66
+msgctxt "Building_Lv_1_01_Name"
+msgid "Shu Statue"
+msgstr ""
+
+#: 67
+msgctxt "Building_Lv_1_02_Description"
+msgid "Only works once: At the start of the next stage， your character with the least Health is healed for [*] Health."
+msgstr ""
+
+#: 68
+msgctxt "Building_Lv_1_02_Name"
+msgid "Miniature Oasis"
+msgstr ""
+
+#: 69
+msgctxt "Building_Lv_1_03_Description"
+msgid "Winning a stage grants [*] additional gold."
+msgstr ""
+
+#: 70
+msgctxt "Building_Lv_1_03_Name"
+msgid "Pot of Gold"
+msgstr ""
+
+#: 71
+msgctxt "Building_Lv_1_04_Description"
+msgid "Adds an extra recovery tablet to all future tablet rewards."
+msgstr ""
+
+#: 72
+msgctxt "Building_Lv_1_04_Name"
+msgid "Tent"
+msgstr ""
+
+#: 73
+msgctxt "Building_Lv_1_05_Description"
+msgid "Only works once: At the start of the next stage， all characters are healed for [*] Health."
+msgstr ""
+
+#: 74
+msgctxt "Building_Lv_1_05_Name"
+msgid "Vitality Stele"
+msgstr ""
+
+#: 75
+msgctxt "Building_Lv_1_06_Description"
+msgid "Characters recover [*] Health whenever they gain a new tablet."
+msgstr ""
+
+#: 76
+msgctxt "Building_Lv_1_06_Name"
+msgid "Pharaoh Statue"
+msgstr ""
+
+#: 77
+msgctxt "Building_Lv_1_07_Description"
+msgid "Finishing a stage within [*] turns grants an additional [**] gold."
+msgstr ""
+
+#: 78
+msgctxt "Building_Lv_1_07_Name"
+msgid "Altar of Heroism"
+msgstr ""
+
+#: 79
+msgctxt "Building_Lv_1_08_Description"
+msgid "Grants a random weapon upon construction."
+msgstr ""
+
+#: 80
+msgctxt "Building_Lv_1_08_Name"
+msgid "Falcon Statue"
+msgstr ""
+
+#: 81
+msgctxt "Building_Lv_1_09_Description"
+msgid "Grants a random accessory upon construction."
+msgstr ""
+
+#: 82
+msgctxt "Building_Lv_1_09_Name"
+msgid "Scarab Statue"
+msgstr ""
+
+#: 83
+msgctxt "Building_Lv_1_10_Description"
+msgid "Reduces the cost of constructing other buildings by [*]."
+msgstr ""
+
+#: 84
+msgctxt "Building_Lv_1_10_Name"
+msgid "Harp"
+msgstr ""
+
+#: 85
+msgctxt "Building_Lv_1_11_Description"
+msgid "Winning a stage grants [*] additional gold. This effect is removed if you spend gold."
+msgstr ""
+
+#: 86
+msgctxt "Building_Lv_1_11_Name"
+msgid "Small Gold Pouch"
+msgstr ""
+
+#: 87
+msgctxt "Building_Lv_1_12_Description"
+msgid "Your characters gain [*] Move Distance on the first turn of each stage."
+msgstr ""
+
+#: 88
+msgctxt "Building_Lv_1_12_Name"
+msgid "Jackal Statue"
+msgstr ""
+
+#: 89
+msgctxt "Building_Lv_1_13_Description"
+msgid "Winning a stage heals all characters for [*] Health."
+msgstr ""
+
+#: 90
+msgctxt "Building_Lv_1_13_Name"
+msgid "Bread & Beer"
+msgstr ""
+
+#: 91
+msgctxt "Building_Lv_1_14_Description"
+msgid "Sun Warrior gains [*] Armor."
+msgstr ""
+
+#: 92
+msgctxt "Building_Lv_1_14_Name"
+msgid "Sun Mark"
+msgstr ""
+
+#: 93
+msgctxt "Building_Lv_1_15_Description"
+msgid "Dune Hunter gains [*] Attack Power."
+msgstr ""
+
+#: 94
+msgctxt "Building_Lv_1_15_Name"
+msgid "Wind Mark"
+msgstr ""
+
+#: 95
+msgctxt "Building_Lv_1_16_Description"
+msgid "Waste Mystic gains [*] Attack Power."
+msgstr ""
+
+#: 96
+msgctxt "Building_Lv_1_16_Name"
+msgid "Mystic Mark"
+msgstr ""
+
+#: 97
+msgctxt "Building_Lv_2_01_Description"
+msgid "Enables you to skip non-boss stages， though skipped stages will not grant rewards. Can be used 3 times."
+msgstr ""
+
+#: 98
+msgctxt "Building_Lv_2_01_Name"
+msgid "Divination Table"
+msgstr ""
+
+#: 99
+msgctxt "Building_Lv_2_02_Description"
+msgid "Enables you to refresh tablet rewards once per completed stage."
+msgstr ""
+
+#: 100
+msgctxt "Building_Lv_2_02_Name"
+msgid "Boulder Altar"
+msgstr ""
+
+#: 101
+msgctxt "Building_Lv_2_03_Description"
+msgid "Grants each character a gear slot."
+msgstr ""
+
+#: 102
+msgctxt "Building_Lv_2_03_Name"
+msgid "Armory"
+msgstr ""
+
+#: 103
+msgctxt "Building_Lv_2_04_Description"
+msgid "Deals [*] damage to all enemies at the start of each stage."
+msgstr ""
+
+#: 104
+msgctxt "Building_Lv_2_04_Name"
+msgid "Storm Altar"
+msgstr ""
+
+#: 105
+msgctxt "Building_Lv_2_05_Description"
+msgid "Heals your character with the least Health for [*] Health. Can only be used once per stage， for a maximum of [**] times."
+msgstr ""
+
+#: 106
+msgctxt "Building_Lv_2_05_Name"
+msgid "Large Oasis"
+msgstr ""
+
+#: 107
+msgctxt "Building_Lv_2_06_Description"
+msgid "All characters gain [*] Attack Power."
+msgstr ""
+
+#: 108
+msgctxt "Building_Lv_2_06_Name"
+msgid "Military Camp"
+msgstr ""
+
+#: 109
+msgctxt "Building_Lv_2_07_Description"
+msgid "Completely useless."
+msgstr ""
+
+#: 110
+msgctxt "Building_Lv_2_07_Name"
+msgid "Stone Head"
+msgstr ""
+
+#: 111
+msgctxt "Building_Lv_2_08_Description"
+msgid "You gain an additional turn at the start of each stage."
+msgstr ""
+
+#: 112
+msgctxt "Building_Lv_2_08_Name"
+msgid "Pharaoh Altar"
+msgstr ""
+
+#: 113
+msgctxt "Building_Lv_2_09_Description"
+msgid "Adds an extra tablet to all future tablet rewards."
+msgstr ""
+
+#: 114
+msgctxt "Building_Lv_2_09_Name"
+msgid "Ancestral Altar"
+msgstr ""
+
+#: 115
+msgctxt "Building_Lv_2_10_Description"
+msgid "Only works once: The character is healed for 15 Health at the start of the new stage."
+msgstr ""
+
+#: 116
+msgctxt "Building_Lv_2_10_Name"
+msgid "Obelisk of Life"
+msgstr ""
+
+#: 117
+msgctxt "Building_Lv_3_01_Description"
+msgid "Enables you to choose two tablet rewards each stage."
+msgstr ""
+
+#: 118
+msgctxt "Building_Lv_3_01_Name"
+msgid "Large Pyramid"
+msgstr ""
+
+#: 119
+msgctxt "Building_Lv_3_02_Description"
+msgid "N/A"
+msgstr ""
+
+#: 120
+msgctxt "Building_Lv_3_02_Name"
+msgid "Anubis Altar"
+msgstr ""
+
+#: 121
+msgctxt "Building_Lv_3_03_Description"
+msgid "N/A"
+msgstr ""
+
+#: 122
+msgctxt "Building_Lv_3_03_Name"
+msgid "Great Tomb"
+msgstr ""
+
+#: 123
+msgctxt "Building_Lv_3_04_Description"
+msgid "Your characters gain [*] Attack Power for each legendary tablet they possess."
+msgstr ""
+
+#: 124
+msgctxt "Building_Lv_3_04_Name"
+msgid "Sphinx Statue"
+msgstr ""
+
+#: 125
+msgctxt "Building_Lv_3_05_Description"
+msgid "Bestows you with an extremely powerful bow."
+msgstr ""
+
+#: 126
+msgctxt "Building_Lv_3_05_Name"
+msgid "Horus Temple"
+msgstr ""
+
+#: 127
+msgctxt "Building_Lv_3_06_Description"
+msgid "Winning a stage heals all characters for [*] Health."
+msgstr ""
+
+#: 128
+msgctxt "Building_Lv_3_06_Name"
+msgid "Isis Temple"
+msgstr ""
+
+#: 129
+msgctxt "Building_Lv_3_07_Description"
+msgid "Uncommon tablets will no longer appear as rewards."
+msgstr ""
+
+#: 130
+msgctxt "Building_Lv_3_07_Name"
+msgid "Scorpion Temple"
+msgstr ""
+
+#: 131
+msgctxt "Building_Lv_3_08_Description"
+msgid "Bestows you with an extremely powerful sword."
+msgstr ""
+
+#: 132
+msgctxt "Building_Lv_3_08_Name"
+msgid "Sun Temple"
+msgstr ""
+
+#: 133
+msgctxt "Button_Achievement"
+msgid "Achievements"
+msgstr ""
+
+#: 134
+msgctxt "Button_Back"
+msgid "Return"
+msgstr ""
+
+#: 135
+msgctxt "Button_Card"
+msgid "Tablets"
+msgstr ""
+
+#: 136
+msgctxt "Button_CardCollect"
+msgid "Tablets"
+msgstr ""
+
+#: 137
+msgctxt "Button_Equip"
+msgid "Gear"
+msgstr ""
+
+#: 138
+msgctxt "Button_ExitGame"
+msgid "Exit"
+msgstr ""
+
+#: 139
+msgctxt "Button_History"
+msgid "History"
+msgstr ""
+
+#: 140
+msgctxt "Button_Idle"
+msgid "Wait"
+msgstr ""
+
+#: 141
+msgctxt "Button_Market"
+msgid "Trader"
+msgstr ""
+
+#: 142
+msgctxt "Button_Perk"
+msgid "Build"
+msgstr ""
+
+#: 143
+msgctxt "Button_Restart"
+msgid "Restart"
+msgstr ""
+
+#: 144
+msgctxt "Button_Rune"
+msgid "Carvings"
+msgstr ""
+
+#: 145
+msgctxt "Button_SkipTutorial"
+msgid "Skip all tutorials"
+msgstr ""
+
+#: 146
+msgctxt "Button_TurnOver"
+msgid "End Turn"
+msgstr ""
+
+#: 147
+msgctxt "Button_confirm"
+msgid "Confirm"
+msgstr ""
+
+#: 148
+msgctxt "CardCollectPanel_Choice"
+msgid "Choose"
+msgstr ""
+
+#: 149
+msgctxt "CardCollectPanel_Show"
+msgid "Appear"
+msgstr ""
+
+#: 150
+msgctxt "CardPanel_CardChoiceTips"
+msgid "Choose a Tablet"
+msgstr ""
+
+#: 151
+msgctxt "CardPanel_NextLevelButton_Tpis"
+msgid "Choose a tablet reward."
+msgstr ""
+
+#: 152
+msgctxt "Card_Archer_01_Description"
+msgid "Grants [*] Attack Range."
+msgstr ""
+
+#: 153
+msgctxt "Card_Archer_01_Name"
+msgid "Longbow"
+msgstr ""
+
+#: 154
+msgctxt "Card_Archer_01_Short"
+msgid "Bow"
+msgstr ""
+
+#: 155
+msgctxt "Card_Archer_02_Description"
+msgid "Grants <color=#009346><b>[*]</b></color> Move Distance."
+msgstr ""
+
+#: 156
+msgctxt "Card_Archer_02_Name"
+msgid "Swiftness"
+msgstr ""
+
+#: 157
+msgctxt "Card_Archer_02_Short"
+msgid "Swiftness"
+msgstr ""
+
+#: 158
+msgctxt "Card_Archer_04_Description"
+msgid "If you do not move during your turn， gain <color=#DD2000><b>[*]</b></color> Attack Power， and [**] Attack Range until next turn."
+msgstr ""
+
+#: 159
+msgctxt "Card_Archer_04_Name"
+msgid "Snipe"
+msgstr ""
+
+#: 160
+msgctxt "Card_Archer_04_Short"
+msgid "Snipe"
+msgstr ""
+
+#: 161
+msgctxt "Card_Archer_05_Description"
+msgid "If you do not move during your turn， gain <color=#00438E><b>[*]</b></color> Temporary Armor."
+msgstr ""
+
+#: 162
+msgctxt "Card_Archer_05_Name"
+msgid "Cover"
+msgstr ""
+
+#: 163
+msgctxt "Card_Archer_05_Short"
+msgid "Cover"
+msgstr ""
+
+#: 164
+msgctxt "Card_Archer_06_Description"
+msgid "If you do not move during your turn， you can attack twice."
+msgstr ""
+
+#: 165
+msgctxt "Card_Archer_06_Name"
+msgid "Rapid Fire"
+msgstr ""
+
+#: 166
+msgctxt "Card_Archer_06_Short"
+msgid "Rapid"
+msgstr ""
+
+#: 167
+msgctxt "Card_Archer_07_Description"
+msgid "Shoot has increased <color=#AC09DB>Damage Radius</color>."
+msgstr ""
+
+#: 168
+msgctxt "Card_Archer_07_Name"
+msgid "Starfall Arrow"
+msgstr ""
+
+#: 169
+msgctxt "Card_Archer_07_Short"
+msgid "Starfall"
+msgstr ""
+
+#: 170
+msgctxt "Card_Archer_08_Description"
+msgid "Deal <color=#DD2000><b>[**]</b></color> additional damage to enemies no closer than [*] grids."
+msgstr ""
+
+#: 171
+msgctxt "Card_Archer_08_Name"
+msgid "Shoot"
+msgstr ""
+
+#: 172
+msgctxt "Card_Archer_08_Short"
+msgid "Shoot"
+msgstr ""
+
+#: 173
+msgctxt "Card_Archer_09_Description"
+msgid "For each [*] Health the enemy has lost， you deal <color=#DD2000><b>[**]</b></color> additional damage for a maximum of 12."
+msgstr ""
+
+#: 174
+msgctxt "Card_Archer_09_Name"
+msgid "Pursuit"
+msgstr ""
+
+#: 175
+msgctxt "Card_Archer_09_Short"
+msgid "Pursuit"
+msgstr ""
+
+#: 176
+msgctxt "Card_Archer_10_Description"
+msgid "Shoot's damage is increased by an additional <color=#DD2000><b>[**]</b></color>."
+msgstr ""
+
+#: 177
+msgctxt "Card_Archer_10_Name"
+msgid "Power Shot"
+msgstr ""
+
+#: 178
+msgctxt "Card_Archer_10_Short"
+msgid "Power"
+msgstr ""
+
+#: 179
+msgctxt "Card_Archer_11_Description"
+msgid "Grants <color=#DD2000><b>[*]</b></color> Attack Power. Non-boss enemies you attack will have their Move Distance reduced by [**] on their next turn."
+msgstr ""
+
+#: 180
+msgctxt "Card_Archer_11_Name"
+msgid "Arrow-in-the-Knee"
+msgstr ""
+
+#: 181
+msgctxt "Card_Archer_11_Short"
+msgid "Knee"
+msgstr ""
+
+#: 182
+msgctxt "Card_Archer_12_Description"
+msgid "Attacks ignore Armor; also deals <color=#DD2000><b>[**]</b></color> additional damage for every <color=#00438E><b>[*]</b></color> Armor the enemy has."
+msgstr ""
+
+#: 183
+msgctxt "Card_Archer_12_Name"
+msgid "Perfect Aim"
+msgstr ""
+
+#: 184
+msgctxt "Card_Archer_12_Short"
+msgid "Perfect"
+msgstr ""
+
+#: 185
+msgctxt "Card_Archer_13_Description"
+msgid "When there are [*] enemies within Attack Range， attack all of them."
+msgstr ""
+
+#: 186
+msgctxt "Card_Archer_13_Name"
+msgid "Arrow Shower"
+msgstr ""
+
+#: 187
+msgctxt "Card_Archer_13_Short"
+msgid "Shower"
+msgstr ""
+
+#: 188
+msgctxt "Card_Archer_14_Description"
+msgid "Attacks deal increased damage equal to the target's Armor value."
+msgstr ""
+
+#: 189
+msgctxt "Card_Archer_14_Name"
+msgid "Pierce Arrow"
+msgstr ""
+
+#: 190
+msgctxt "Card_Archer_14_Short"
+msgid "Pierce"
+msgstr ""
+
+#: 191
+msgctxt "Card_Archer_15_Description"
+msgid "Upon killing an enemy， you also launch an additional attack against the enemy with the lowest Health within Attack Range."
+msgstr ""
+
+#: 192
+msgctxt "Card_Archer_15_Name"
+msgid "Stormchaser"
+msgstr ""
+
+#: 193
+msgctxt "Card_Archer_15_Short"
+msgid "Chaser"
+msgstr ""
+
+#: 194
+msgctxt "Card_Archer_16_Description"
+msgid "If this attack deals more than [*] damage， deal <color=#DD2000><b>[**]</b></color> additional damage."
+msgstr ""
+
+#: 195
+msgctxt "Card_Archer_16_Name"
+msgid "Headshot"
+msgstr ""
+
+#: 196
+msgctxt "Card_Archer_16_Short"
+msgid "Headshot"
+msgstr ""
+
+#: 197
+msgctxt "Card_Archer_17_Description"
+msgid "Deal <color=#DD2000><b>[*]</b></color> additional damage when attacking an enemy at full Health."
+msgstr ""
+
+#: 198
+msgctxt "Card_Archer_17_Name"
+msgid "Powermonger"
+msgstr ""
+
+#: 199
+msgctxt "Card_Archer_17_Short"
+msgid "Powermonger"
+msgstr ""
+
+#: 200
+msgctxt "Card_Archer_18_Description"
+msgid "Deal <color=#DD2000><b>[*]</b></color> additional damage against armorless enemies."
+msgstr ""
+
+#: 201
+msgctxt "Card_Archer_18_Name"
+msgid "Find Weakness"
+msgstr ""
+
+#: 202
+msgctxt "Card_Archer_18_Short"
+msgid "Weakness"
+msgstr ""
+
+#: 203
+msgctxt "Card_Archer_19_Description"
+msgid "If there is only one enemy within Attack Range， gain <color=#DD2000><b>[*]</b></color> Attack Power until next turn."
+msgstr ""
+
+#: 204
+msgctxt "Card_Archer_19_Name"
+msgid "Take Aim"
+msgstr ""
+
+#: 205
+msgctxt "Card_Archer_19_Short"
+msgid "Take Aim"
+msgstr ""
+
+#: 206
+msgctxt "Card_Archer_20_Description"
+msgid "If you do not attack during your turn， gain <color=#DD2000><b>[*]</b></color> Attack Power， and [**] Move Distance on your next turn."
+msgstr ""
+
+#: 207
+msgctxt "Card_Archer_20_Name"
+msgid "Guerrilla Warfare"
+msgstr ""
+
+#: 208
+msgctxt "Card_Archer_20_Short"
+msgid "Guerrilla"
+msgstr ""
+
+#: 209
+msgctxt "Card_Archer_21_Description"
+msgid "One time per stage: When you are about to be attacked， gain <color=#00438E><b>[*]</b></color> Temporary Armor."
+msgstr ""
+
+#: 210
+msgctxt "Card_Archer_21_Name"
+msgid "Emergency Defense"
+msgstr ""
+
+#: 211
+msgctxt "Card_Archer_21_Short"
+msgid "Emergency"
+msgstr ""
+
+#: 212
+msgctxt "Card_Archer_22_Description"
+msgid "When an ally adjacent to you is attacked (and if the enemy is within Attack Range)， you strike back."
+msgstr ""
+
+#: 213
+msgctxt "Card_Archer_22_Name"
+msgid "Support Fire"
+msgstr ""
+
+#: 214
+msgctxt "Card_Archer_22_Short"
+msgid "Fire"
+msgstr ""
+
+#: 215
+msgctxt "Card_Archer_23_Description"
+msgid "Grants a gear slot. Equipping a bow grants <color=#DD2000><b>[*]</b></color> Attack Power."
+msgstr ""
+
+#: 216
+msgctxt "Card_Archer_23_Name"
+msgid "Bow Prowess"
+msgstr ""
+
+#: 217
+msgctxt "Card_Archer_23_Short"
+msgid "Bow"
+msgstr ""
+
+#: 218
+msgctxt "Card_Archer_24_Description"
+msgid "Enables you to attack adjacent enemies for an additional <color=#DD2000><b>[**]</b></color> damage."
+msgstr ""
+
+#: 219
+msgctxt "Card_Archer_24_Name"
+msgid "Melee Combat"
+msgstr ""
+
+#: 220
+msgctxt "Card_Archer_24_Short"
+msgid "Melee"
+msgstr ""
+
+#: 221
+msgctxt "Card_Archer_25_Description"
+msgid "If there are no units adjacent to you， gain <color=#DD2000><b>[*]</b></color> Attack Power until next turn."
+msgstr ""
+
+#: 222
+msgctxt "Card_Archer_25_Name"
+msgid "Lone Wolf"
+msgstr ""
+
+#: 223
+msgctxt "Card_Archer_25_Short"
+msgid "Loner"
+msgstr ""
+
+#: 224
+msgctxt "Card_Archer_26_Description"
+msgid "Become immune to ranged damage but take 50% additional damage from melee attacks."
+msgstr ""
+
+#: 225
+msgctxt "Card_Archer_26_Name"
+msgid "Stone Form"
+msgstr ""
+
+#: 226
+msgctxt "Card_Archer_26_Short"
+msgid "Stone"
+msgstr ""
+
+#: 227
+msgctxt "Card_Archer_27_Description"
+msgid "At the start of each battle， gain <color=#DD2000><b>[**]</b></color> Attack Power， and [*] Attack Range. Attacking removes this buff."
+msgstr ""
+
+#: 228
+msgctxt "Card_Archer_27_Name"
+msgid "Storm"
+msgstr ""
+
+#: 229
+msgctxt "Card_Archer_27_Short"
+msgid "Storm"
+msgstr ""
+
+#: 230
+msgctxt "Card_Archer_28_Description"
+msgid "When killing an enemy at full Health， deal <color=#DD2000><b>[**]</b></color> damage to all enemies within [*] grids of the target."
+msgstr ""
+
+#: 231
+msgctxt "Card_Archer_28_Name"
+msgid "Meteor"
+msgstr ""
+
+#: 232
+msgctxt "Card_Archer_28_Short"
+msgid "Meteor"
+msgstr ""
+
+#: 233
+msgctxt "Card_Archer_29_Description"
+msgid "If Dune Hunter is the first character to act this turn， gain <color=#DD2000><b>[*]</b></color> Attack Power until next turn."
+msgstr ""
+
+#: 234
+msgctxt "Card_Archer_29_Name"
+msgid "First Blood"
+msgstr ""
+
+#: 235
+msgctxt "Card_Archer_29_Short"
+msgid "First"
+msgstr ""
+
+#: 236
+msgctxt "Card_Archer_30_Description"
+msgid "Killing an enemy restores <color=#009346><b>[*]</b></color> Health to you and adjacent allies."
+msgstr ""
+
+#: 237
+msgctxt "Card_Archer_30_Name"
+msgid "Recovery"
+msgstr ""
+
+#: 238
+msgctxt "Card_Archer_30_Short"
+msgid "Recovery"
+msgstr ""
+
+#: 239
+msgctxt "Card_Archer_31_Description"
+msgid "Grants a gear slot. Equipping two bows grants [*] Move Distance， [**] Attack Range， and <color=#DD2000><b>[***]</b></color> Attack Power."
+msgstr ""
+
+#: 240
+msgctxt "Card_Archer_31_Name"
+msgid "Bow Master"
+msgstr ""
+
+#: 241
+msgctxt "Card_Archer_31_Short"
+msgid "Master"
+msgstr ""
+
+#: 242
+msgctxt "Card_Archer_32_Description"
+msgid "Gain <color=#DD2000><b>[*]</b></color> Attack Power until next turn for each grid you move."
+msgstr ""
+
+#: 243
+msgctxt "Card_Archer_32_Name"
+msgid "Rapid Assault"
+msgstr ""
+
+#: 244
+msgctxt "Card_Archer_32_Short"
+msgid "Assault"
+msgstr ""
+
+#: 245
+msgctxt "Card_Archer_33_Description"
+msgid "Grants a gear slot. Equipping a bow grants 1 Move Distance， <color=#00438E><b>[**]</b></color> Armor， and [***] Attack Range."
+msgstr ""
+
+#: 246
+msgctxt "Card_Archer_33_Name"
+msgid "Heavy Ballista"
+msgstr ""
+
+#: 247
+msgctxt "Card_Archer_33_Short"
+msgid "Ballista"
+msgstr ""
+
+#: 248
+msgctxt "Card_Archer_34_Description"
+msgid "When standing next to an environmental obstacle， gain <color=#DD2000><b>[*]</b></color> Attack Power， and <color=#00438E><b>[**]</b></color> Temporary Armor until next turn."
+msgstr ""
+
+#: 249
+msgctxt "Card_Archer_34_Name"
+msgid "Cover Fire"
+msgstr ""
+
+#: 250
+msgctxt "Card_Archer_34_Short"
+msgid "Covered"
+msgstr ""
+
+#: 251
+msgctxt "Card_Archer_35_Description"
+msgid "At the end of turn， each enemy within Attack Range increase your Attack Power by [*] and Attack Range by [**] on your next turn."
+msgstr ""
+
+#: 252
+msgctxt "Card_Archer_35_Name"
+msgid "Dune Eagle"
+msgstr ""
+
+#: 253
+msgctxt "Card_Archer_35_Short"
+msgid "Eagle"
+msgstr ""
+
+#: 254
+msgctxt "Card_Archer_36_Description"
+msgid "Killing an enemy grants adjacent allied units an additional <color=#DD2000><b>[*]</b></color> Attack Power， and [**] Attack Range until next turn."
+msgstr ""
+
+#: 255
+msgctxt "Card_Archer_36_Name"
+msgid "Shu's Blessing"
+msgstr ""
+
+#: 256
+msgctxt "Card_Archer_36_Short"
+msgid "Blessing"
+msgstr ""
+
+#: 257
+msgctxt "Card_Archer_90_Description"
+msgid "Recover <color=#009346><b>[*]</b></color> Health."
+msgstr ""
+
+#: 258
+msgctxt "Card_Archer_90_Name"
+msgid "Minor Heal"
+msgstr ""
+
+#: 259
+msgctxt "Card_Archer_91_Description"
+msgid "Recover <color=#009346><b>[*]</b></color> Health."
+msgstr ""
+
+#: 260
+msgctxt "Card_Archer_91_Name"
+msgid "Medium Heal"
+msgstr ""
+
+#: 261
+msgctxt "Card_Archer_92_Description"
+msgid "Recover all Health."
+msgstr ""
+
+#: 262
+msgctxt "Card_Archer_92_Name"
+msgid "Large Heal"
+msgstr ""
+
+#: 263
+msgctxt "Card_Archer_93_Description"
+msgid "Resurrect with <color=#009346><b>[*]</b></color> Health."
+msgstr ""
+
+#: 264
+msgctxt "Card_Archer_93_Name"
+msgid "Revive"
+msgstr ""
+
+#: 265
+msgctxt "Card_Archer_94_Description"
+msgid "Recover <color=#009346><b>[**]</b></color> Health， and gain <color=#009346><b>[*]</b></color> Max Health."
+msgstr ""
+
+#: 266
+msgctxt "Card_Archer_94_Name"
+msgid "Provisions"
+msgstr ""
+
+#: 267
+msgctxt "Card_Mage_01_Description"
+msgid "Grants [*] Attack Range."
+msgstr ""
+
+#: 268
+msgctxt "Card_Mage_01_Name"
+msgid "Ranged Art"
+msgstr ""
+
+#: 269
+msgctxt "Card_Mage_01_Short"
+msgid "Ranged"
+msgstr ""
+
+#: 270
+msgctxt "Card_Mage_02_Description"
+msgid "Increases <color=#AC09DB>Damage Radius</color>."
+msgstr ""
+
+#: 271
+msgctxt "Card_Mage_02_Name"
+msgid "Glory"
+msgstr ""
+
+#: 272
+msgctxt "Card_Mage_02_Short"
+msgid "Glory"
+msgstr ""
+
+#: 273
+msgctxt "Card_Mage_03_Description"
+msgid "At the start of each battle， gain <color=#DD2000><b>[*]</b></color> Attack Power. Being attacked or clearing the stage removes this buff."
+msgstr ""
+
+#: 274
+msgctxt "Card_Mage_03_Name"
+msgid "Fierce Resolve"
+msgstr ""
+
+#: 275
+msgctxt "Card_Mage_03_Short"
+msgid "Resolve"
+msgstr ""
+
+#: 276
+msgctxt "Card_Mage_04_Description"
+msgid "You can attack after moving but Attack Range is reduced to 2."
+msgstr ""
+
+#: 277
+msgctxt "Card_Mage_04_Name"
+msgid "Stationary Mystic"
+msgstr ""
+
+#: 278
+msgctxt "Card_Mage_04_Short"
+msgid "Stationary"
+msgstr ""
+
+#: 279
+msgctxt "Card_Mage_05_Description"
+msgid "Attacks ignore Armor."
+msgstr ""
+
+#: 280
+msgctxt "Card_Mage_05_Name"
+msgid "Magic Pierce"
+msgstr ""
+
+#: 281
+msgctxt "Card_Mage_05_Short"
+msgid "Pierce"
+msgstr ""
+
+#: 282
+msgctxt "Card_Mage_06_Description"
+msgid "Attacking increases your Attack Power by <color=#DD2000><b>[**]</b></color> on your next turn， stacking up to [*] times."
+msgstr ""
+
+#: 283
+msgctxt "Card_Mage_06_Name"
+msgid "Wild Magic"
+msgstr ""
+
+#: 284
+msgctxt "Card_Mage_06_Short"
+msgid "Wild"
+msgstr ""
+
+#: 285
+msgctxt "Card_Mage_07_Description"
+msgid "Deal <color=#DD2000><b>[**]</b></color> additional damage to enemies within [*] grid(s)."
+msgstr ""
+
+#: 286
+msgctxt "Card_Mage_07_Name"
+msgid "Pinpoint"
+msgstr ""
+
+#: 287
+msgctxt "Card_Mage_07_Short"
+msgid "Pinpoint"
+msgstr ""
+
+#: 288
+msgctxt "Card_Mage_08_Description"
+msgid "Where there are no enemies within [*] grid(s) of you， gain <color=#DD2000><b>[**]</b></color> Attack Power until next turn."
+msgstr ""
+
+#: 289
+msgctxt "Card_Mage_08_Name"
+msgid "Full Focus"
+msgstr ""
+
+#: 290
+msgctxt "Card_Mage_08_Short"
+msgid "Focus"
+msgstr ""
+
+#: 291
+msgctxt "Card_Mage_09_Description"
+msgid "Grants <color=#DD2000><b>[*]</b></color> Attack Power. Non-boss enemies you attack will have their Move Distance reduced by [**] on their next turn."
+msgstr ""
+
+#: 292
+msgctxt "Card_Mage_09_Name"
+msgid "Sunstruck"
+msgstr ""
+
+#: 293
+msgctxt "Card_Mage_09_Short"
+msgid "Sunstruck"
+msgstr ""
+
+#: 294
+msgctxt "Card_Mage_10_Description"
+msgid "Deal <color=#DD2000><b>1</b></color> additional damage for each [*] Health the enemy has."
+msgstr ""
+
+#: 295
+msgctxt "Card_Mage_10_Name"
+msgid "Raging Light"
+msgstr ""
+
+#: 296
+msgctxt "Card_Mage_10_Short"
+msgid "Raging"
+msgstr ""
+
+#: 297
+msgctxt "Card_Mage_11_Description"
+msgid "When attacking you also deal <color=#DD2000><b>[**]</b></color> damage to up to [*] random enemies within Attack Range."
+msgstr ""
+
+#: 298
+msgctxt "Card_Mage_11_Name"
+msgid "Holy Barrage"
+msgstr ""
+
+#: 299
+msgctxt "Card_Mage_11_Short"
+msgid "Barrage"
+msgstr ""
+
+#: 300
+msgctxt "Card_Mage_12_Description"
+msgid "Killing an enemy deals <color=#DD2000><b>[*]</b></color> damage to all enemies within Attack Range."
+msgstr ""
+
+#: 301
+msgctxt "Card_Mage_12_Name"
+msgid "Holy Aura"
+msgstr ""
+
+#: 302
+msgctxt "Card_Mage_12_Short"
+msgid "Holy Aura"
+msgstr ""
+
+#: 303
+msgctxt "Card_Mage_13_Description"
+msgid "When attacking adjacent enemies， deal additional damage equal to your Health x2， for a minimum of [*]."
+msgstr ""
+
+#: 304
+msgctxt "Card_Mage_13_Name"
+msgid "Aurora"
+msgstr ""
+
+#: 305
+msgctxt "Card_Mage_13_Short"
+msgid "Aurora"
+msgstr ""
+
+#: 306
+msgctxt "Card_Mage_14_Description"
+msgid "Killing an enemy restores <color=#009346><b>[*]</b></color> Health."
+msgstr ""
+
+#: 307
+msgctxt "Card_Mage_14_Name"
+msgid "Absorb"
+msgstr ""
+
+#: 308
+msgctxt "Card_Mage_14_Short"
+msgid "Absorb"
+msgstr ""
+
+#: 309
+msgctxt "Card_Mage_15_Description"
+msgid "If you do not move during your turn， gain <color=#00438E><b>[*]</b></color> Temporary Armor."
+msgstr ""
+
+#: 310
+msgctxt "Card_Mage_15_Name"
+msgid "Holy Shield"
+msgstr ""
+
+#: 311
+msgctxt "Card_Mage_15_Short"
+msgid "Holy"
+msgstr ""
+
+#: 312
+msgctxt "Card_Mage_16_Description"
+msgid "Triggering Light Shield grants <color=#00438E><b>[*]</b></color> additional Temporary Armor."
+msgstr ""
+
+#: 313
+msgctxt "Card_Mage_16_Name"
+msgid "Holy Power"
+msgstr ""
+
+#: 314
+msgctxt "Card_Mage_16_Short"
+msgid "Power"
+msgstr ""
+
+#: 315
+msgctxt "Card_Mage_17_Description"
+msgid "If you do not move during your turn， adjacent allies gain <color=#00438E><b>[*]</b></color> Temporary Armor."
+msgstr ""
+
+#: 316
+msgctxt "Card_Mage_17_Name"
+msgid "Holy Barrier"
+msgstr ""
+
+#: 317
+msgctxt "Card_Mage_17_Short"
+msgid "Barrier"
+msgstr ""
+
+#: 318
+msgctxt "Card_Mage_18_Description"
+msgid "Enemies that attack Waste Mystic take <color=#DD2000><b>[*]</b></color> damage."
+msgstr ""
+
+#: 319
+msgctxt "Card_Mage_18_Name"
+msgid "Retribution Aura"
+msgstr ""
+
+#: 320
+msgctxt "Card_Mage_18_Short"
+msgid "Retribution"
+msgstr ""
+
+#: 321
+msgctxt "Card_Mage_19_Description"
+msgid "The damage you take from ranged attacks is halved."
+msgstr ""
+
+#: 322
+msgctxt "Card_Mage_19_Name"
+msgid "Holy Armor"
+msgstr ""
+
+#: 323
+msgctxt "Card_Mage_19_Short"
+msgid "Armor"
+msgstr ""
+
+#: 324
+msgctxt "Card_Mage_20_Description"
+msgid "One time per stage: When about to take damage， the damage is negated and the attacker instead takes <color=#DD2000><b>[*]</b></color> damage."
+msgstr ""
+
+#: 325
+msgctxt "Card_Mage_20_Name"
+msgid "Mirage"
+msgstr ""
+
+#: 326
+msgctxt "Card_Mage_20_Short"
+msgid "Mirage"
+msgstr ""
+
+#: 327
+msgctxt "Card_Mage_21_Description"
+msgid "When at above [*] Health， Attack Power is increased by <color=#DD2000><b>[**]</b></color>."
+msgstr ""
+
+#: 328
+msgctxt "Card_Mage_21_Name"
+msgid "Devotion"
+msgstr ""
+
+#: 329
+msgctxt "Card_Mage_21_Short"
+msgid "Devotion"
+msgstr ""
+
+#: 330
+msgctxt "Card_Mage_22_Description"
+msgid "Killing an enemy explodes them， dealing <color=#DD2000><b>[*]</b></color> damage to all adjacent enemies."
+msgstr ""
+
+#: 331
+msgctxt "Card_Mage_22_Name"
+msgid "Mystic Burst"
+msgstr ""
+
+#: 332
+msgctxt "Card_Mage_22_Short"
+msgid "Burst"
+msgstr ""
+
+#: 333
+msgctxt "Card_Mage_23_Description"
+msgid "Grants a gear slot. Equipping an accessory grants <color=#DD2000><b>[*]</b></color> Attack Power， and <color=#00438E><b>[**]</b></color> Armor."
+msgstr ""
+
+#: 334
+msgctxt "Card_Mage_23_Name"
+msgid "Accessory Prowess"
+msgstr ""
+
+#: 335
+msgctxt "Card_Mage_23_Short"
+msgid "Accessory"
+msgstr ""
+
+#: 336
+msgctxt "Card_Mage_24_Description"
+msgid "Upon obtaining this tablet， it is transformed into three random tablets for Waste Mystic."
+msgstr ""
+
+#: 337
+msgctxt "Card_Mage_24_Name"
+msgid "Mystic Talent"
+msgstr ""
+
+#: 338
+msgctxt "Card_Mage_24_Short"
+msgid "Mystic"
+msgstr ""
+
+#: 339
+msgctxt "Card_Mage_25_Description"
+msgid "Grants a gear slot. Equipping a scepter grants <color=#DD2000><b>[*]</b></color> Attack Power."
+msgstr ""
+
+#: 340
+msgctxt "Card_Mage_25_Name"
+msgid "Scepter Prowess"
+msgstr ""
+
+#: 341
+msgctxt "Card_Mage_25_Short"
+msgid "Scepter"
+msgstr ""
+
+#: 342
+msgctxt "Card_Mage_26_Description"
+msgid "If Waste Mystic kills [*] enemies in a stage， all other enemies take <color=#DD2000><b>[**]</b></color> damage."
+msgstr ""
+
+#: 343
+msgctxt "Card_Mage_26_Name"
+msgid "Solar Eclipse"
+msgstr ""
+
+#: 344
+msgctxt "Card_Mage_26_Short"
+msgid "Eclipse"
+msgstr ""
+
+#: 345
+msgctxt "Card_Mage_27_Description"
+msgid "Killing an enemy grants <color=#DD2000><b>[*]</b></color> Attack Power， and [**] Attack Range on your next turn."
+msgstr ""
+
+#: 346
+msgctxt "Card_Mage_27_Name"
+msgid "Overload"
+msgstr ""
+
+#: 347
+msgctxt "Card_Mage_27_Short"
+msgid "Overload"
+msgstr ""
+
+#: 348
+msgctxt "Card_Mage_28_Description"
+msgid "If you move during your turn， gain 2 Attack Range on your next turn."
+msgstr ""
+
+#: 349
+msgctxt "Card_Mage_28_Name"
+msgid "Extended Reach"
+msgstr ""
+
+#: 350
+msgctxt "Card_Mage_28_Short"
+msgid "Extended"
+msgstr ""
+
+#: 351
+msgctxt "Card_Mage_29_Description"
+msgid "If an ally is adjacent to the enemy you attack， deal <color=#DD2000><b>[*]</b></color> additional damage."
+msgstr ""
+
+#: 352
+msgctxt "Card_Mage_29_Name"
+msgid "Focused Fire"
+msgstr ""
+
+#: 353
+msgctxt "Card_Mage_29_Short"
+msgid "Focused"
+msgstr ""
+
+#: 354
+msgctxt "Card_Mage_30_Description"
+msgid "Grants two gear slots. Equipping 3 accessories grants [*] Attack Range， <color=#DD2000><b>[***]</b></color> Attack Power， and increases <color=#AC09DB>Damage Radius</color>."
+msgstr ""
+
+#: 355
+msgctxt "Card_Mage_30_Name"
+msgid "Grand Entrance"
+msgstr ""
+
+#: 356
+msgctxt "Card_Mage_30_Short"
+msgid "Grand"
+msgstr ""
+
+#: 357
+msgctxt "Card_Mage_31_Description"
+msgid "Killing an enemy grants [*] additional gold (doesn't work on summonings)."
+msgstr ""
+
+#: 358
+msgctxt "Card_Mage_31_Name"
+msgid "Hand of Midas"
+msgstr ""
+
+#: 359
+msgctxt "Card_Mage_31_Short"
+msgid "Midas"
+msgstr ""
+
+#: 360
+msgctxt "Card_Mage_32_Description"
+msgid "If there are more than [*] enemies within Attack Range， gain <color=#DD2000><b>[**]</b></color> Attack Power， and <color=#00438E><b>[***]</b></color> Temporary Armor until next turn."
+msgstr ""
+
+#: 361
+msgctxt "Card_Mage_32_Name"
+msgid "Tranquility"
+msgstr ""
+
+#: 362
+msgctxt "Card_Mage_32_Short"
+msgid "Tranq"
+msgstr ""
+
+#: 363
+msgctxt "Card_Mage_33_Description"
+msgid "If you have more than [*] environmental obstacles or allies adjacent to you， gain <color=#00438E><b>[**]</b></color> Temporary Armor."
+msgstr ""
+
+#: 364
+msgctxt "Card_Mage_33_Name"
+msgid "Behind Cover"
+msgstr ""
+
+#: 365
+msgctxt "Card_Mage_33_Short"
+msgid "Behind"
+msgstr ""
+
+#: 366
+msgctxt "Card_Mage_34_Description"
+msgid "When adjacent to Sun Warrior， gain <color=#DD2000><b>[*]</b></color> Attack Power， and <color=#00438E><b>[**]</b></color> Temporary Armor. If adjacent to Dune Hunter， gain <color=#DD2000><b>[***]</b></color> Attack Power， and <color=#00438E><b>[***]</b></color> Attack Range. Both units gain the same effects."
+msgstr ""
+
+#: 367
+msgctxt "Card_Mage_34_Name"
+msgid "Sun Pact"
+msgstr ""
+
+#: 368
+msgctxt "Card_Mage_34_Short"
+msgid "Pact"
+msgstr ""
+
+#: 369
+msgctxt "Card_Mage_35_Description"
+msgid "One time per stage: Killing an enemy enables you to attack <color=#DD2000><b>[*]</b></color> times on your next turn."
+msgstr ""
+
+#: 370
+msgctxt "Card_Mage_35_Name"
+msgid "Solar Corona"
+msgstr ""
+
+#: 371
+msgctxt "Card_Mage_35_Short"
+msgid "Solar"
+msgstr ""
+
+#: 372
+msgctxt "Card_Mage_36_Description"
+msgid "If all enemies are within Waste Mystic's Attack Range， the mystic will attack all enemies."
+msgstr ""
+
+#: 373
+msgctxt "Card_Mage_36_Name"
+msgid "Divine Power"
+msgstr ""
+
+#: 374
+msgctxt "Card_Mage_36_Short"
+msgid "Divine"
+msgstr ""
+
+#: 375
+msgctxt "Card_Mage_37_Description"
+msgid "Killing an enemy deals <color=#DD2000><b>[*]</b></color> damage to the enemy with the least Health."
+msgstr ""
+
+#: 376
+msgctxt "Card_Mage_37_Name"
+msgid "Illumination"
+msgstr ""
+
+#: 377
+msgctxt "Card_Mage_37_Short"
+msgid "Illumin"
+msgstr ""
+
+#: 378
+msgctxt "Card_Mage_90_Description"
+msgid "Recover <color=#009346><b>[*]</b></color> Health."
+msgstr ""
+
+#: 379
+msgctxt "Card_Mage_90_Name"
+msgid "Minor Heal"
+msgstr ""
+
+#: 380
+msgctxt "Card_Mage_91_Description"
+msgid "Recover <color=#009346><b>[*]</b></color> Health."
+msgstr ""
+
+#: 381
+msgctxt "Card_Mage_91_Name"
+msgid "Medium Heal"
+msgstr ""
+
+#: 382
+msgctxt "Card_Mage_92_Description"
+msgid "Recover all Health."
+msgstr ""
+
+#: 383
+msgctxt "Card_Mage_92_Name"
+msgid "Large Heal"
+msgstr ""
+
+#: 384
+msgctxt "Card_Mage_93_Description"
+msgid "Resurrect with <color=#009346><b>[*]</b></color> Health."
+msgstr ""
+
+#: 385
+msgctxt "Card_Mage_93_Name"
+msgid "Revive"
+msgstr ""
+
+#: 386
+msgctxt "Card_Mage_94_Description"
+msgid "Recover <color=#009346><b>[*]</b></color> Health. Gain <color=#DD2000><b>[**]</b></color> Attack Power."
+msgstr ""
+
+#: 387
+msgctxt "Card_Mage_94_Name"
+msgid "Holy Water"
+msgstr ""
+
+#: 388
+msgctxt "Card_Warrior_01_Description"
+msgid "Grants <color=#00438E><b>[*]</b></color> Armor."
+msgstr ""
+
+#: 389
+msgctxt "Card_Warrior_01_Name"
+msgid "Defense"
+msgstr ""
+
+#: 390
+msgctxt "Card_Warrior_01_Short"
+msgid "Defense"
+msgstr ""
+
+#: 391
+msgctxt "Card_Warrior_02_Description"
+msgid "Triggering Barrier grants <color=#00438E><b>[*]</b></color> additional Temporary Armor."
+msgstr ""
+
+#: 392
+msgctxt "Card_Warrior_02_Name"
+msgid "Power Barrier"
+msgstr ""
+
+#: 393
+msgctxt "Card_Warrior_02_Short"
+msgid "Barrier"
+msgstr ""
+
+#: 394
+msgctxt "Card_Warrior_03_Description"
+msgid "Grants <color=#1EDBDA><b>[*]</b></color> Move Distance."
+msgstr ""
+
+#: 395
+msgctxt "Card_Warrior_03_Name"
+msgid "Swiftness"
+msgstr ""
+
+#: 396
+msgctxt "Card_Warrior_03_Short"
+msgid "Swiftness"
+msgstr ""
+
+#: 397
+msgctxt "Card_Warrior_04_Description"
+msgid "Grants <color=#009346><b>[*]</b></color> Max Health， and <color=#DD2000><b>[**]</b></color> Attack Power."
+msgstr ""
+
+#: 398
+msgctxt "Card_Warrior_04_Name"
+msgid "Sturdy"
+msgstr ""
+
+#: 399
+msgctxt "Card_Warrior_04_Short"
+msgid "Sturdy"
+msgstr ""
+
+#: 400
+msgctxt "Card_Warrior_05_Description"
+msgid "Grants <color=#DD2000><b>[*]</b></color> Attack Power， <color=#009346><b>[**]</b></color> Max Health， and <color=#00438E><b>[***]</b></color> Armor."
+msgstr ""
+
+#: 401
+msgctxt "Card_Warrior_05_Name"
+msgid "Veteran"
+msgstr ""
+
+#: 402
+msgctxt "Card_Warrior_05_Short"
+msgid "Veteran"
+msgstr ""
+
+#: 403
+msgctxt "Card_Warrior_06_Description"
+msgid "Grants [*] Attack Range."
+msgstr ""
+
+#: 404
+msgctxt "Card_Warrior_06_Name"
+msgid "Long Reach"
+msgstr ""
+
+#: 405
+msgctxt "Card_Warrior_06_Short"
+msgid "Reach"
+msgstr ""
+
+#: 406
+msgctxt "Card_Warrior_07_Description"
+msgid "At the start of battle， gain <color=#DD2000><b>[**]</b></color> Attack Power for every [*] Health."
+msgstr ""
+
+#: 407
+msgctxt "Card_Warrior_07_Name"
+msgid "Stalwart"
+msgstr ""
+
+#: 408
+msgctxt "Card_Warrior_07_Short"
+msgid "Stalwart"
+msgstr ""
+
+#: 409
+msgctxt "Card_Warrior_08_Description"
+msgid "Attacks hit all enemies within Attack Range."
+msgstr ""
+
+#: 410
+msgctxt "Card_Warrior_08_Name"
+msgid "Whirlwind"
+msgstr ""
+
+#: 411
+msgctxt "Card_Warrior_08_Short"
+msgid "Whirl"
+msgstr ""
+
+#: 412
+msgctxt "Card_Warrior_09_Description"
+msgid "Increases <color=#AC09DB>Damage Radius</color>."
+msgstr ""
+
+#: 413
+msgctxt "Card_Warrior_09_Name"
+msgid "Scorching"
+msgstr ""
+
+#: 414
+msgctxt "Card_Warrior_09_Short"
+msgid "Scorch"
+msgstr ""
+
+#: 415
+msgctxt "Card_Warrior_10_Description"
+msgid "If you do not move during your turn， gain <color=#00438E><b>[*]</b></color> Temporary Armor."
+msgstr ""
+
+#: 416
+msgctxt "Card_Warrior_10_Name"
+msgid "Firm"
+msgstr ""
+
+#: 417
+msgctxt "Card_Warrior_10_Short"
+msgid "Firm"
+msgstr ""
+
+#: 418
+msgctxt "Card_Warrior_11_Description"
+msgid "Your Armor value is added to damage when you attack."
+msgstr ""
+
+#: 419
+msgctxt "Card_Warrior_11_Name"
+msgid "Shield Bash"
+msgstr ""
+
+#: 420
+msgctxt "Card_Warrior_11_Short"
+msgid "Bash"
+msgstr ""
+
+#: 421
+msgctxt "Card_Warrior_12_Description"
+msgid "Killing an enemy grants <color=#00438E><b>[*]</b></color> Temporary Armor."
+msgstr ""
+
+#: 422
+msgctxt "Card_Warrior_12_Name"
+msgid "Shield Wall"
+msgstr ""
+
+#: 423
+msgctxt "Card_Warrior_12_Short"
+msgid "Wall"
+msgstr ""
+
+#: 424
+msgctxt "Card_Warrior_13_Description"
+msgid "Killing an enemy restores <color=#009346><b>[*]</b></color> Health."
+msgstr ""
+
+#: 425
+msgctxt "Card_Warrior_13_Name"
+msgid "Warpath"
+msgstr ""
+
+#: 426
+msgctxt "Card_Warrior_13_Short"
+msgid "Warpath"
+msgstr ""
+
+#: 427
+msgctxt "Card_Warrior_14_Description"
+msgid "Deal <color=#DD2000><b>[*]</b></color> additional damage against armored enemies."
+msgstr ""
+
+#: 428
+msgctxt "Card_Warrior_14_Name"
+msgid "Power Blow"
+msgstr ""
+
+#: 429
+msgctxt "Card_Warrior_14_Short"
+msgid "Blow"
+msgstr ""
+
+#: 430
+msgctxt "Card_Warrior_15_Description"
+msgid "Non-boss enemies you attack cannot move during their next turn."
+msgstr ""
+
+#: 431
+msgctxt "Card_Warrior_15_Name"
+msgid "Sever Tendon"
+msgstr ""
+
+#: 432
+msgctxt "Card_Warrior_15_Short"
+msgid "Tendon"
+msgstr ""
+
+#: 433
+msgctxt "Card_Warrior_16_Description"
+msgid "When attacking， Sun Warrior executes an enemy with Health lower than Sun Brave's Armor x2."
+msgstr ""
+
+#: 434
+msgctxt "Card_Warrior_16_Name"
+msgid "Execute"
+msgstr ""
+
+#: 435
+msgctxt "Card_Warrior_16_Short"
+msgid "Execute"
+msgstr ""
+
+#: 436
+msgctxt "Card_Warrior_17_Description"
+msgid "At the end of turn， gain <color=#00438E><b>[*]</b></color> Temporary Armor for each adjacent enemy."
+msgstr ""
+
+#: 437
+msgctxt "Card_Warrior_17_Name"
+msgid "Bravery"
+msgstr ""
+
+#: 438
+msgctxt "Card_Warrior_17_Short"
+msgid "Bravery"
+msgstr ""
+
+#: 439
+msgctxt "Card_Warrior_18_Description"
+msgid "At the end of turn， gain <color=#00438E><b>[*]</b></color> Temporary Armor for each adjacent ally."
+msgstr ""
+
+#: 440
+msgctxt "Card_Warrior_18_Name"
+msgid "Rampart"
+msgstr ""
+
+#: 441
+msgctxt "Card_Warrior_18_Short"
+msgid "Rampart"
+msgstr ""
+
+#: 442
+msgctxt "Card_Warrior_19_Description"
+msgid "If an enemy attack you while they are within Attack Range， you attack them in return."
+msgstr ""
+
+#: 443
+msgctxt "Card_Warrior_19_Name"
+msgid "Counterattack"
+msgstr ""
+
+#: 444
+msgctxt "Card_Warrior_19_Short"
+msgid "Counter"
+msgstr ""
+
+#: 445
+msgctxt "Card_Warrior_20_Description"
+msgid "If Sun Warrior has more than 0 Armor， he intercepts damage for adjacent allies."
+msgstr ""
+
+#: 446
+msgctxt "Card_Warrior_20_Name"
+msgid "Heroic Defense"
+msgstr ""
+
+#: 447
+msgctxt "Card_Warrior_20_Short"
+msgid "Defense"
+msgstr ""
+
+#: 448
+msgctxt "Card_Warrior_21_Description"
+msgid "Winning a stage recovers <color=#009346><b>[*]</b></color> Health."
+msgstr ""
+
+#: 449
+msgctxt "Card_Warrior_21_Name"
+msgid "Hardy"
+msgstr ""
+
+#: 450
+msgctxt "Card_Warrior_21_Short"
+msgid "Hardy"
+msgstr ""
+
+#: 451
+msgctxt "Card_Warrior_22_Description"
+msgid "Grants a gear slot. Equipping an accessory grants <color=#00438E><b>[*]</b></color> Armor."
+msgstr ""
+
+#: 452
+msgctxt "Card_Warrior_22_Name"
+msgid "Shield Prowess"
+msgstr ""
+
+#: 453
+msgctxt "Card_Warrior_22_Short"
+msgid "Shield"
+msgstr ""
+
+#: 454
+msgctxt "Card_Warrior_23_Description"
+msgid "When at below [*] Health， gain <color=#DD2000><b>[****]</b></color> Attack Power. When at below [**] Health， gain <color=#DD2000><b>[***]</b></color> Attack Power."
+msgstr ""
+
+#: 455
+msgctxt "Card_Warrior_23_Name"
+msgid "Berserk"
+msgstr ""
+
+#: 456
+msgctxt "Card_Warrior_23_Short"
+msgid "Berserk"
+msgstr ""
+
+#: 457
+msgctxt "Card_Warrior_24_Description"
+msgid "Grants a gear slot. Equipping a sword grants <color=#DD2000><b>[*]</b></color> Attack Power， and <color=#00438E><b>[**]</b></color> Armor."
+msgstr ""
+
+#: 458
+msgctxt "Card_Warrior_24_Name"
+msgid "Sword Prowess"
+msgstr ""
+
+#: 459
+msgctxt "Card_Warrior_24_Short"
+msgid "Sword"
+msgstr ""
+
+#: 460
+msgctxt "Card_Warrior_25_Description"
+msgid "Grants <color=#009346><b>[*]</b></color> Max Health. One time per turn: When Armor drops to 0， restore half of your initial Armor value."
+msgstr ""
+
+#: 461
+msgctxt "Card_Warrior_25_Name"
+msgid "Fearless"
+msgstr ""
+
+#: 462
+msgctxt "Card_Warrior_25_Short"
+msgid "Fearless"
+msgstr ""
+
+#: 463
+msgctxt "Card_Warrior_26_Description"
+msgid "Gain <color=#DD2000><b>[*]</b></color> Attack Power for each enemy within Attack Range until next turn."
+msgstr ""
+
+#: 464
+msgctxt "Card_Warrior_26_Name"
+msgid "Force Assault"
+msgstr ""
+
+#: 465
+msgctxt "Card_Warrior_26_Short"
+msgid "Force"
+msgstr ""
+
+#: 466
+msgctxt "Card_Warrior_27_Description"
+msgid "One time per stage: If Sun Warrior would die， he instead retains <color=#009346><b>[*]</b></color> Health and gains <color=#00438E><b>[**]</b></color> Temporary Armor."
+msgstr ""
+
+#: 467
+msgctxt "Card_Warrior_27_Name"
+msgid "Lethal Defense"
+msgstr ""
+
+#: 468
+msgctxt "Card_Warrior_27_Short"
+msgid "Lethal"
+msgstr ""
+
+#: 469
+msgctxt "Card_Warrior_28_Description"
+msgid "When moving 2 grids or more， gain <color=#DD2000><b>[*]</b></color> Attack Power， and <color=#00438E><b>[**]</b></color> Temporary Armor until next turn."
+msgstr ""
+
+#: 470
+msgctxt "Card_Warrior_28_Name"
+msgid "Charge"
+msgstr ""
+
+#: 471
+msgctxt "Card_Warrior_28_Short"
+msgid "Charge"
+msgstr ""
+
+#: 472
+msgctxt "Card_Warrior_29_Description"
+msgid "If there are an ally adjacent to you， gain <color=#DD2000><b>[*]</b></color> Attack Power until next turn."
+msgstr ""
+
+#: 473
+msgctxt "Card_Warrior_29_Name"
+msgid "Guard"
+msgstr ""
+
+#: 474
+msgctxt "Card_Warrior_29_Short"
+msgid "Guard"
+msgstr ""
+
+#: 475
+msgctxt "Card_Warrior_30_Description"
+msgid "After moving， deal damage to adjacent enemies equal to your Armor value."
+msgstr ""
+
+#: 476
+msgctxt "Card_Warrior_30_Name"
+msgid "Flame Trample"
+msgstr ""
+
+#: 477
+msgctxt "Card_Warrior_30_Short"
+msgid "Trample"
+msgstr ""
+
+#: 478
+msgctxt "Card_Warrior_31_Description"
+msgid "Grants a gear slot. Equipping a sword and accessory grants [*] Move Distance， <color=#DD2000><b>[***]</b></color> Attack Power， and <color=#00438E><b>[**]</b></color> Armor."
+msgstr ""
+
+#: 479
+msgctxt "Card_Warrior_31_Name"
+msgid "Fully Geared"
+msgstr ""
+
+#: 480
+msgctxt "Card_Warrior_31_Short"
+msgid "Geared"
+msgstr ""
+
+#: 481
+msgctxt "Card_Warrior_32_Description"
+msgid "If you end the turn with more than [*] Armor， gain [**] Attack Power and greatly increased Damage Radius on the next turn."
+msgstr ""
+
+#: 482
+msgctxt "Card_Warrior_32_Name"
+msgid "Sun Flame"
+msgstr ""
+
+#: 483
+msgctxt "Card_Warrior_32_Short"
+msgid "Flame"
+msgstr ""
+
+#: 484
+msgctxt "Card_Warrior_33_Description"
+msgid "If you are attacked during the enemy's turn， you gain <color=#DD2000><b>[*]</b></color> Attack Power on the next turn."
+msgstr ""
+
+#: 485
+msgctxt "Card_Warrior_33_Name"
+msgid "Revenge"
+msgstr ""
+
+#: 486
+msgctxt "Card_Warrior_33_Short"
+msgid "Revenge"
+msgstr ""
+
+#: 487
+msgctxt "Card_Warrior_34_Description"
+msgid "For each adjacent ally that attacks， gain <color=#DD2000><b>[*]</b></color> Attack Power， and <color=#00438E><b>[**]</b></color> Temporary Armor until next turn."
+msgstr ""
+
+#: 488
+msgctxt "Card_Warrior_34_Name"
+msgid "Power United"
+msgstr ""
+
+#: 489
+msgctxt "Card_Warrior_34_Short"
+msgid "United"
+msgstr ""
+
+#: 490
+msgctxt "Card_Warrior_35_Description"
+msgid "One time per turn: You can act again after attacking an enemy."
+msgstr ""
+
+#: 491
+msgctxt "Card_Warrior_35_Name"
+msgid "Surging Flames"
+msgstr ""
+
+#: 492
+msgctxt "Card_Warrior_35_Short"
+msgid "Surge"
+msgstr ""
+
+#: 493
+msgctxt "Card_Warrior_36_Description"
+msgid "When attacking， deal damage equal to Sun Warrior's Attack Power to all enemies within a distance of [*]."
+msgstr ""
+
+#: 494
+msgctxt "Card_Warrior_36_Name"
+msgid "Flamestorm"
+msgstr ""
+
+#: 495
+msgctxt "Card_Warrior_36_Short"
+msgid "Storm"
+msgstr ""
+
+#: 496
+msgctxt "Card_Warrior_37_Description"
+msgid "If Sun Warrior is the first character to act， and if he kills an enemy， allied units gain [*] Attack Power， and [**] Temporary Armor."
+msgstr ""
+
+#: 497
+msgctxt "Card_Warrior_37_Name"
+msgid "Divinity"
+msgstr ""
+
+#: 498
+msgctxt "Card_Warrior_37_Short"
+msgid "Divinity"
+msgstr ""
+
+#: 499
+msgctxt "Card_Warrior_90_Description"
+msgid "Recover <color=#009346><b>[*]</b></color> Health."
+msgstr ""
+
+#: 500
+msgctxt "Card_Warrior_90_Name"
+msgid "Minor Heal"
+msgstr ""
+
+#: 501
+msgctxt "Card_Warrior_91_Description"
+msgid "Recover <color=#009346><b>[*]</b></color> Health."
+msgstr ""
+
+#: 502
+msgctxt "Card_Warrior_91_Name"
+msgid "Medium Heal"
+msgstr ""
+
+#: 503
+msgctxt "Card_Warrior_92_Description"
+msgid "Recover all Health."
+msgstr ""
+
+#: 504
+msgctxt "Card_Warrior_92_Name"
+msgid "Large Heal"
+msgstr ""
+
+#: 505
+msgctxt "Card_Warrior_93_Description"
+msgid "Resurrect with <color=#009346><b>16</b></color> Health."
+msgstr ""
+
+#: 506
+msgctxt "Card_Warrior_93_Name"
+msgid "Revive"
+msgstr ""
+
+#: 507
+msgctxt "Card_Warrior_94_Description"
+msgid "Recover <color=#009346><b>[**]</b></color> Health， and gain <color=#009346><b>[*]</b></color> Max Health."
+msgstr ""
+
+#: 508
+msgctxt "Card_Warrior_94_Name"
+msgid "Beer"
+msgstr ""
+
+#: 509
+msgctxt "Challenge_01_detail"
+msgid "Enemies on normal stages have 10% increased Health."
+msgstr ""
+
+#: 510
+msgctxt "Challenge_02_detail"
+msgid "0-1 environmental obstacle is removed at random from normal stages."
+msgstr ""
+
+#: 511
+msgctxt "Challenge_03_detail"
+msgid "Winning a boss battle restores half as much Health."
+msgstr ""
+
+#: 512
+msgctxt "Challenge_04_detail"
+msgid "In each normal stage， 3 random enemies will have +1 Attack Power."
+msgstr ""
+
+#: 513
+msgctxt "Challenge_05_detail"
+msgid "Boss enemies have 15% more Health."
+msgstr ""
+
+#: 514
+msgctxt "Challenge_06_detail"
+msgid "1-2 environmental obstacles are removed at random from normal stages."
+msgstr ""
+
+#: 515
+msgctxt "Challenge_07_detail"
+msgid "All characters lose 5 Health when embarking."
+msgstr ""
+
+#: 516
+msgctxt "Challenge_08_detail"
+msgid "In each normal stage， 3 random enemies will have +2 Initial Armor."
+msgstr ""
+
+#: 517
+msgctxt "Challenge_09_detail"
+msgid "Normal stages have a 50% chance of generating an additional enemy."
+msgstr ""
+
+#: 518
+msgctxt "Challenge_10_detail"
+msgid "Difficulty of the final boss battle increased."
+msgstr ""
+
+#: 519
+msgctxt "CityPanelChallageMode"
+msgid "Challenge"
+msgstr ""
+
+#: 520
+msgctxt "CityPanelChallageModeClose"
+msgid "Challenge Cancel"
+msgstr ""
+
+#: 521
+msgctxt "CityPanel_BuildingComplete_tips_01"
+msgid "Gear"
+msgstr ""
+
+#: 522
+msgctxt "CityPanel_BuildingComplete_tips_02"
+msgid "Carvings"
+msgstr ""
+
+#: 523
+msgctxt "CityPanel_BuildingComplete_tips_03"
+msgid "？？？"
+msgstr ""
+
+#: 524
+msgctxt "CityPanel_ChallangeActiveTips_01"
+msgid "You have unlocked Challange mode."
+msgstr ""
+
+#: 525
+msgctxt "CityPanel_ChallangeActiveTips_02"
+msgid "Unlock higher hard mode tiers by completing the most difficult one you have unlocked."
+msgstr ""
+
+#: 526
+msgctxt "CityPanel_ChallangeActiveTips_03"
+msgid "Clear Challenge mode to unlock 10 more Tablets"
+msgstr ""
+
+#: 527
+msgctxt "CityPanel_ChallangeActiveTips_04"
+msgid "Challenge Lv. [*] Clear"
+msgstr ""
+
+#: 528
+msgctxt "CityPanel_ChallangeActiveTips_05"
+msgid "Challenge Lv. [*] Unlocked"
+msgstr ""
+
+#: 529
+msgctxt "CityPanel_ChallangeActiveTips_06"
+msgid "Tablet Unlocked"
+msgstr ""
+
+#: 530
+msgctxt "CityPanel_ChallangeActiveTips_07"
+msgid "Unlocked"
+msgstr ""
+
+#: 531
+msgctxt "CityPanel_ChallangeActiveTips_08"
+msgid "Locked"
+msgstr ""
+
+#: 532
+msgctxt "CityPanel_PerkActiveTips_01"
+msgid "The following are active:"
+msgstr ""
+
+#: 533
+msgctxt "CityPanel_PerkActiveTips_02"
+msgid "The following are active:"
+msgstr ""
+
+#: 534
+msgctxt "CityPanel_PerkActiveTips_03"
+msgid "The following will appear in the future game."
+msgstr ""
+
+#: 535
+msgctxt "CityPanel_PleaseBuildLv1"
+msgid "Create an Ancient Pyramid first."
+msgstr ""
+
+#: 536
+msgctxt "Demo_BonusPanel_Tips_01"
+msgid "The official version contains the following contents."
+msgstr ""
+
+#: 537
+msgctxt "Demo_BonusPanel_Tips_02"
+msgid "Gears"
+msgstr ""
+
+#: 538
+msgctxt "Demo_BonusPanel_Tips_03"
+msgid "Carvings"
+msgstr ""
+
+#: 539
+msgctxt "Demo_BonusPanel_Tips_04"
+msgid "More Tablets"
+msgstr ""
+
+#: 540
+msgctxt "Demo_BonusPanel_Tips_05"
+msgid "Stages"
+msgstr ""
+
+#: 541
+msgctxt "Demo_BonusPanel_Tips_06"
+msgid "Buildings"
+msgstr ""
+
+#: 542
+msgctxt "Demo_BonusPanel_Tips_07"
+msgid "Thanks for playing."
+msgstr ""
+
+#: 543
+msgctxt "Demo_CardUIPanel_Tips_01"
+msgid "This content is not supported in the Demo."
+msgstr ""
+
+#: 544
+msgctxt "Demo_Title"
+msgid "Demo"
+msgstr ""
+
+#: 545
+msgctxt "EnemySkill_01_Description"
+msgid "This unit gains [*] Attack Power before it acts."
+msgstr ""
+
+#: 546
+msgctxt "EnemySkill_01_Name"
+msgid "Berserk"
+msgstr ""
+
+#: 547
+msgctxt "EnemySkill_02_Description"
+msgid "This unit gains [*] Attack Power when attacked."
+msgstr ""
+
+#: 548
+msgctxt "EnemySkill_02_Name"
+msgid "Fury"
+msgstr ""
+
+#: 549
+msgctxt "EnemySkill_03_Description"
+msgid "This unit gains [*] Max Health before it acts."
+msgstr ""
+
+#: 550
+msgctxt "EnemySkill_03_Name"
+msgid "Longevity"
+msgstr ""
+
+#: 551
+msgctxt "EnemySkill_04_Description"
+msgid "This unit has high Armor."
+msgstr ""
+
+#: 552
+msgctxt "EnemySkill_04_Name"
+msgid "Tempered"
+msgstr ""
+
+#: 553
+msgctxt "EnemySkill_05_Description"
+msgid "This unit heals adjacent enemy units for [*] Health before it acts."
+msgstr ""
+
+#: 554
+msgctxt "EnemySkill_05_Name"
+msgid "Heal"
+msgstr ""
+
+#: 555
+msgctxt "EnemySkill_06_Description"
+msgid "This unit heals all enemy units for [*] Health before it acts."
+msgstr ""
+
+#: 556
+msgctxt "EnemySkill_06_Name"
+msgid "Group Heal"
+msgstr ""
+
+#: 557
+msgctxt "EnemySkill_08_Description"
+msgid "Deals [*] damage to all adjacent units when killed."
+msgstr ""
+
+#: 558
+msgctxt "EnemySkill_08_Name"
+msgid "Exploding"
+msgstr ""
+
+#: 559
+msgctxt "EnemySkill_09_Description"
+msgid "Deals [*] damage to all units within 2 grids when killed."
+msgstr ""
+
+#: 560
+msgctxt "EnemySkill_09_Name"
+msgid "Annihilation"
+msgstr ""
+
+#: 561
+msgctxt "EnemySkill_10_Description"
+msgid "Self-explodes on turn [*]， dealing [**] damage to all your characters."
+msgstr ""
+
+#: 562
+msgctxt "EnemySkill_10_Name"
+msgid "Explosive"
+msgstr ""
+
+#: 563
+msgctxt "EnemySkill_12_Description"
+msgid "Flees from the battlefield on turn [*]."
+msgstr ""
+
+#: 564
+msgctxt "EnemySkill_12_Name"
+msgid "Fleeing"
+msgstr ""
+
+#: 565
+msgctxt "EnemySkill_13_Description"
+msgid "Immune to all damage when there are more than [*] enemies on the battlefield."
+msgstr ""
+
+#: 566
+msgctxt "EnemySkill_13_Name"
+msgid "Invulnerable"
+msgstr ""
+
+#: 567
+msgctxt "EnemySkill_14_Description"
+msgid "Characters attacked by this unit cannot move on their next turn."
+msgstr ""
+
+#: 568
+msgctxt "EnemySkill_14_Name"
+msgid "Root"
+msgstr ""
+
+#: 569
+msgctxt "EnemySkill_15_Description"
+msgid "Intercepts damage for adjacent allies."
+msgstr ""
+
+#: 570
+msgctxt "EnemySkill_15_Name"
+msgid "Protect"
+msgstr ""
+
+#: 571
+msgctxt "EnemySkill_22_Description"
+msgid "Drops [*] gold when killed."
+msgstr ""
+
+#: 572
+msgctxt "EnemySkill_22_Name"
+msgid "Moneybags"
+msgstr ""
+
+#: 573
+msgctxt "EnemySkill_23_Description"
+msgid "Drops a gear chest when killed."
+msgstr ""
+
+#: 574
+msgctxt "EnemySkill_23_Name"
+msgid "Chestbags"
+msgstr ""
+
+#: 575
+msgctxt "EnemySkill_37_Description"
+msgid "Takes half damage from ranged attacks."
+msgstr ""
+
+#: 576
+msgctxt "EnemySkill_37_Name"
+msgid "Hardened"
+msgstr ""
+
+#: 577
+msgctxt "EnemySkill_38_Description"
+msgid "Attacks all of your characters within its Attack Range."
+msgstr ""
+
+#: 578
+msgctxt "EnemySkill_38_Name"
+msgid "Pulse"
+msgstr ""
+
+#: 579
+msgctxt "EnemySkill_39_Description"
+msgid "This character applies [*] Temporary Armor to all of its allies before acting."
+msgstr ""
+
+#: 580
+msgctxt "EnemySkill_39_Name"
+msgid "Force Field"
+msgstr ""
+
+#: 581
+msgctxt "EnterPanel_Continue"
+msgid "Continue"
+msgstr ""
+
+#: 582
+msgctxt "EnterPanel_Exit"
+msgid "Exit"
+msgstr ""
+
+#: 583
+msgctxt "EnterPanel_GameStart"
+msgid "Start"
+msgstr ""
+
+#: 584
+msgctxt "EnterPanel_Setup"
+msgid "Settings"
+msgstr ""
+
+#: 585
+msgctxt "EnterPanel_Staff"
+msgid "Credits"
+msgstr ""
+
+#: 586
+msgctxt "EquipPanel_Tpis"
+msgid "No slot free for the gear"
+msgstr ""
+
+#: 587
+msgctxt "Equipment_Bow_62001_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>."
+msgstr ""
+
+#: 588
+msgctxt "Equipment_Bow_62001_Name"
+msgid "Iron Bow"
+msgstr ""
+
+#: 589
+msgctxt "Equipment_Bow_62002_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>."
+msgstr ""
+
+#: 590
+msgctxt "Equipment_Bow_62002_Name"
+msgid "Steel Bow"
+msgstr ""
+
+#: 591
+msgctxt "Equipment_Bow_62003_Description"
+msgid "Deal <color=#DD2000><b>[**]</b></color> additional damage to enemies that are [*] grids away from you."
+msgstr ""
+
+#: 592
+msgctxt "Equipment_Bow_62003_Name"
+msgid "Hunter's Bow"
+msgstr ""
+
+#: 593
+msgctxt "Equipment_Bow_62004_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>."
+msgstr ""
+
+#: 594
+msgctxt "Equipment_Bow_62004_Name"
+msgid "Silver Bow"
+msgstr ""
+
+#: 595
+msgctxt "Equipment_Bow_62005_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>. If you do not move during your turn， gain [**] Attack Range."
+msgstr ""
+
+#: 596
+msgctxt "Equipment_Bow_62005_Name"
+msgid "Longbow"
+msgstr ""
+
+#: 597
+msgctxt "Equipment_Bow_62006_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>. You deal <color=#DD2000><b>[**]</b></color> additional damage against enemies at full Health."
+msgstr ""
+
+#: 598
+msgctxt "Equipment_Bow_62006_Name"
+msgid "Powermonger Bow"
+msgstr ""
+
+#: 599
+msgctxt "Equipment_Bow_62007_Description"
+msgid "You instantly kill enemies at less than [*] Health."
+msgstr ""
+
+#: 600
+msgctxt "Equipment_Bow_62007_Name"
+msgid "Osiris Resolve"
+msgstr ""
+
+#: 601
+msgctxt "Equipment_Bow_62008_Description"
+msgid "You deal increased damage equal to [*]x the distance between you and the target."
+msgstr ""
+
+#: 602
+msgctxt "Equipment_Bow_62008_Name"
+msgid "Shu Bow"
+msgstr ""
+
+#: 603
+msgctxt "Equipment_Bow_62009_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>. Attack Range +[**]."
+msgstr ""
+
+#: 604
+msgctxt "Equipment_Bow_62009_Name"
+msgid "Dune Storm"
+msgstr ""
+
+#: 605
+msgctxt "Equipment_Bow_62010_Description"
+msgid "Attacks hit all enemies within Attack Range."
+msgstr ""
+
+#: 606
+msgctxt "Equipment_Bow_62010_Name"
+msgid "Horus Feather"
+msgstr ""
+
+#: 607
+msgctxt "Equipment_Jewelry_64001_Description"
+msgid "Armor +<color=#00438E><b>[*]</b></color>."
+msgstr ""
+
+#: 608
+msgctxt "Equipment_Jewelry_64001_Name"
+msgid "Wooden Shield"
+msgstr ""
+
+#: 609
+msgctxt "Equipment_Jewelry_64002_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>."
+msgstr ""
+
+#: 610
+msgctxt "Equipment_Jewelry_64002_Name"
+msgid "Attack Charm"
+msgstr ""
+
+#: 611
+msgctxt "Equipment_Jewelry_64003_Description"
+msgid "Armor +<color=#00438E><b>[*]</b></color>."
+msgstr ""
+
+#: 612
+msgctxt "Equipment_Jewelry_64003_Name"
+msgid "Iron Shield"
+msgstr ""
+
+#: 613
+msgctxt "Equipment_Jewelry_64004_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>."
+msgstr ""
+
+#: 614
+msgctxt "Equipment_Jewelry_64004_Name"
+msgid "Courage Charm"
+msgstr ""
+
+#: 615
+msgctxt "Equipment_Jewelry_64005_Description"
+msgid "When at full Health， Attack Power+ <color=#DD2000><b>[*]</b></color>."
+msgstr ""
+
+#: 616
+msgctxt "Equipment_Jewelry_64005_Name"
+msgid "Osiris Mark"
+msgstr ""
+
+#: 617
+msgctxt "Equipment_Jewelry_64006_Description"
+msgid "Winning a stage heals you for <color=#009346><b>[*]</b></color> Health."
+msgstr ""
+
+#: 618
+msgctxt "Equipment_Jewelry_64006_Name"
+msgid "Immortality Charm"
+msgstr ""
+
+#: 619
+msgctxt "Equipment_Jewelry_64007_Description"
+msgid "Grants [*] Move Distance."
+msgstr ""
+
+#: 620
+msgctxt "Equipment_Jewelry_64007_Name"
+msgid "Wind Blessing"
+msgstr ""
+
+#: 621
+msgctxt "Equipment_Jewelry_64008_Description"
+msgid "Grants [*] Attack Range."
+msgstr ""
+
+#: 622
+msgctxt "Equipment_Jewelry_64008_Name"
+msgid "Shu Mark"
+msgstr ""
+
+#: 623
+msgctxt "Equipment_Jewelry_64009_Description"
+msgid "Increases <color=#AC09DB>Attack Range</color>."
+msgstr ""
+
+#: 624
+msgctxt "Equipment_Jewelry_64009_Name"
+msgid "Ra Mark"
+msgstr ""
+
+#: 625
+msgctxt "Equipment_Jewelry_64010_Description"
+msgid "Killing an enemy grants [*] additional gold."
+msgstr ""
+
+#: 626
+msgctxt "Equipment_Jewelry_64010_Name"
+msgid "Scarab Pendant"
+msgstr ""
+
+#: 627
+msgctxt "Equipment_Jewelry_64011_Description"
+msgid "Winning a stage grants [*] additional gold."
+msgstr ""
+
+#: 628
+msgctxt "Equipment_Jewelry_64011_Name"
+msgid "Bell"
+msgstr ""
+
+#: 629
+msgctxt "Equipment_Jewelry_64012_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>， Armor +<color=#00438E><b>[**]</b></color>."
+msgstr ""
+
+#: 630
+msgctxt "Equipment_Jewelry_64012_Name"
+msgid "Solar Slab"
+msgstr ""
+
+#: 631
+msgctxt "Equipment_Jewelry_64013_Description"
+msgid "Attacking increases your Temporary Armor by <color=#00438E><b>[*]</b></color>."
+msgstr ""
+
+#: 632
+msgctxt "Equipment_Jewelry_64013_Name"
+msgid "Lapis Slab"
+msgstr ""
+
+#: 633
+msgctxt "Equipment_Jewelry_64014_Description"
+msgid "If there are no enemies adjacent to you， gain <color=#DD2000><b>[*]</b></color> Attack Power， otherwise gain <color=#00438E><b>[**]</b></color> Temporary Armor."
+msgstr ""
+
+#: 634
+msgctxt "Equipment_Jewelry_64014_Name"
+msgid "Moonstone"
+msgstr ""
+
+#: 635
+msgctxt "Equipment_Jewelry_64015_Description"
+msgid "Winning a stage heals you for <color=#009346><b>[**]</b></color> Health if you are below [*] Health."
+msgstr ""
+
+#: 636
+msgctxt "Equipment_Jewelry_64015_Name"
+msgid "Mummy Pendant"
+msgstr ""
+
+#: 637
+msgctxt "Equipment_Jewelry_64016_Description"
+msgid "If you are the first character to act this turn， gain <color=#DD2000><b>[*]</b></color> Attack Power， and <color=#00438E><b>[*]</b></color> Temporary Armor."
+msgstr ""
+
+#: 638
+msgctxt "Equipment_Jewelry_64016_Name"
+msgid "Horn"
+msgstr ""
+
+#: 639
+msgctxt "Equipment_Staf_63001_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>."
+msgstr ""
+
+#: 640
+msgctxt "Equipment_Staf_63001_Name"
+msgid "Wooden Scepter"
+msgstr ""
+
+#: 641
+msgctxt "Equipment_Staf_63002_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>."
+msgstr ""
+
+#: 642
+msgctxt "Equipment_Staf_63002_Name"
+msgid "Silver Scepter"
+msgstr ""
+
+#: 643
+msgctxt "Equipment_Staf_63003_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>. Attacking an enemy grants you <color=#00438E><b>[**]</b></color> Temporary Armor."
+msgstr ""
+
+#: 644
+msgctxt "Equipment_Staf_63003_Name"
+msgid "Convoy Scepter"
+msgstr ""
+
+#: 645
+msgctxt "Equipment_Staf_63004_Description"
+msgid "When there are no enemy units within [*] grid(s) of you， gain <color=#DD2000><b>[**]</b></color> Attack Power."
+msgstr ""
+
+#: 646
+msgctxt "Equipment_Staf_63004_Name"
+msgid "Ritualist Scepter"
+msgstr ""
+
+#: 647
+msgctxt "Equipment_Staf_63005_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>."
+msgstr ""
+
+#: 648
+msgctxt "Equipment_Staf_63005_Name"
+msgid "Golden Scepter"
+msgstr ""
+
+#: 649
+msgctxt "Equipment_Staf_63006_Description"
+msgid "Gain <color=#DD2000><b>[*]</b></color> Attack Power for each enemy within Attack Range."
+msgstr ""
+
+#: 650
+msgctxt "Equipment_Staf_63006_Name"
+msgid "Wadjet Catalyst"
+msgstr ""
+
+#: 651
+msgctxt "Equipment_Staf_63007_Description"
+msgid "When you attack， adjacent allies gain <color=#DD2000><b>[*]</b></color> Attack Power until next turn."
+msgstr ""
+
+#: 652
+msgctxt "Equipment_Staf_63007_Name"
+msgid "Aurora Scepter"
+msgstr ""
+
+#: 653
+msgctxt "Equipment_Staf_63008_Description"
+msgid "Killing an enemy deals <color=#DD2000><b>[*]</b></color> damage to all enemies within Attack Range."
+msgstr ""
+
+#: 654
+msgctxt "Equipment_Staf_63008_Name"
+msgid "Holy Scepter"
+msgstr ""
+
+#: 655
+msgctxt "Equipment_Staf_63009_Name"
+msgid "N/A"
+msgstr ""
+
+#: 656
+msgctxt "Equipment_Staf_63010_Name"
+msgid "N/A"
+msgstr ""
+
+#: 657
+msgctxt "Equipment_Sword_61001_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>."
+msgstr ""
+
+#: 658
+msgctxt "Equipment_Sword_61001_Name"
+msgid "Iron Sword"
+msgstr ""
+
+#: 659
+msgctxt "Equipment_Sword_61002_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>."
+msgstr ""
+
+#: 660
+msgctxt "Equipment_Sword_61002_Name"
+msgid "Steel Sword"
+msgstr ""
+
+#: 661
+msgctxt "Equipment_Sword_61003_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>， Armor +<color=#00438E><b>[**]</b></color>."
+msgstr ""
+
+#: 662
+msgctxt "Equipment_Sword_61003_Name"
+msgid "Swordbreaker"
+msgstr ""
+
+#: 663
+msgctxt "Equipment_Sword_61004_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>."
+msgstr ""
+
+#: 664
+msgctxt "Equipment_Sword_61004_Name"
+msgid "Silver Sword"
+msgstr ""
+
+#: 665
+msgctxt "Equipment_Sword_61005_Description"
+msgid "Grants [*] Attack Range."
+msgstr ""
+
+#: 666
+msgctxt "Equipment_Sword_61005_Name"
+msgid "Spear"
+msgstr ""
+
+#: 667
+msgctxt "Equipment_Sword_61006_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>. If there are [**] or more enemies within Attack Range， gain <color=#DD2000><b>[***]</b></color> additional Attack Power."
+msgstr ""
+
+#: 668
+msgctxt "Equipment_Sword_61006_Name"
+msgid "Sword of Valor"
+msgstr ""
+
+#: 669
+msgctxt "Equipment_Sword_61007_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>. If there is an enemy within Attack Range， gain <color=#00438E><b>[**]</b></color> Temporary Armor."
+msgstr ""
+
+#: 670
+msgctxt "Equipment_Sword_61007_Name"
+msgid "Pharaoh's Squire"
+msgstr ""
+
+#: 671
+msgctxt "Equipment_Sword_61008_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>， increases <color=#AC09DB>Attack Range</color>."
+msgstr ""
+
+#: 672
+msgctxt "Equipment_Sword_61008_Name"
+msgid "Ra Sword"
+msgstr ""
+
+#: 673
+msgctxt "Equipment_Sword_61009_Description"
+msgid "Armor is reduced by <color=#00438E><b>[*]</b></color> but you can attack twice each turn."
+msgstr ""
+
+#: 674
+msgctxt "Equipment_Sword_61009_Name"
+msgid "Thoth's Curse"
+msgstr ""
+
+#: 675
+msgctxt "Equipment_Sword_61010_Description"
+msgid "Attack Power +<color=#DD2000><b>[*]</b></color>， Armor +<color=#00438E><b>[**]</b></color>. Killing an enemy deals damage equal to your Armor to all enemies within [***] grids."
+msgstr ""
+
+#: 676
+msgctxt "Equipment_Sword_61010_Name"
+msgid "Sunwrought Sword"
+msgstr ""
+
+#: 677
+msgctxt "Gamera_Name_01"
+msgid "Yuuki Yu"
+msgstr ""
+
+#: 678
+msgctxt "Gamera_Name_02"
+msgid "WildChild"
+msgstr ""
+
+#: 679
+msgctxt "Gamera_Name_03"
+msgid "deadfish"
+msgstr ""
+
+#: 680
+msgctxt "Gamera_Name_04"
+msgid "Wee"
+msgstr ""
+
+#: 681
+msgctxt "Gamera_Name_05"
+msgid "Rinko"
+msgstr ""
+
+#: 682
+msgctxt "Gamera_Name_06"
+msgid "Coallin Xuan"
+msgstr ""
+
+#: 683
+msgctxt "Gamera_Name_07"
+msgid "Duoduo Xu"
+msgstr ""
+
+#: 684
+msgctxt "Gamera_Name_08"
+msgid "LeafSong"
+msgstr ""
+
+#: 685
+msgctxt "Gamera_Name_09"
+msgid "Rebel Wang"
+msgstr ""
+
+#: 686
+msgctxt "Gamera_Name_10"
+msgid "MSF_Dio"
+msgstr ""
+
+#: 687
+msgctxt "Gamera_Name_11"
+msgid "196"
+msgstr ""
+
+#: 688
+msgctxt "HistoryPanelTag_1"
+msgid "Score"
+msgstr ""
+
+#: 689
+msgctxt "HistoryPanelTag_10"
+msgid "Defeat"
+msgstr ""
+
+#: 690
+msgctxt "HistoryPanelTag_11"
+msgid "Win"
+msgstr ""
+
+#: 691
+msgctxt "HistoryPanelTag_2"
+msgid "Length"
+msgstr ""
+
+#: 692
+msgctxt "HistoryPanelTag_3"
+msgid "Defeated Bosses"
+msgstr ""
+
+#: 693
+msgctxt "HistoryPanelTag_4"
+msgid "Carvings"
+msgstr ""
+
+#: 694
+msgctxt "HistoryPanelTag_5"
+msgid "Gear"
+msgstr ""
+
+#: 695
+msgctxt "HistoryPanelTag_6"
+msgid "DMG"
+msgstr ""
+
+#: 696
+msgctxt "HistoryPanelTag_7"
+msgid "KILL"
+msgstr ""
+
+#: 697
+msgctxt "HistoryPanelTag_8"
+msgid "DEF"
+msgstr ""
+
+#: 698
+msgctxt "HistoryPanelTag_9"
+msgid "DEATH"
+msgstr ""
+
+#: 699
+msgctxt "Id"
+msgid "EN"
+msgstr ""
+
+#: 700
+msgctxt "NEW_ACHIEVEMENT_10_0"
+msgid "Campaign"
+msgstr ""
+
+#: 701
+msgctxt "NEW_ACHIEVEMENT_10_0_Description"
+msgid "Win 10 battles."
+msgstr ""
+
+#: 702
+msgctxt "NEW_ACHIEVEMENT_11_0"
+msgid "Continued Campaign"
+msgstr ""
+
+#: 703
+msgctxt "NEW_ACHIEVEMENT_11_0_Description"
+msgid "Win 50 battles."
+msgstr ""
+
+#: 704
+msgctxt "NEW_ACHIEVEMENT_12_0"
+msgid "Endless Campaign"
+msgstr ""
+
+#: 705
+msgctxt "NEW_ACHIEVEMENT_12_0_Description"
+msgid "Win 200 battles."
+msgstr ""
+
+#: 706
+msgctxt "NEW_ACHIEVEMENT_13_0"
+msgid "Great Hero"
+msgstr ""
+
+#: 707
+msgctxt "NEW_ACHIEVEMENT_13_0_Description"
+msgid "Defeat all bosses."
+msgstr ""
+
+#: 708
+msgctxt "NEW_ACHIEVEMENT_14_0"
+msgid "Blessed"
+msgstr ""
+
+#: 709
+msgctxt "NEW_ACHIEVEMENT_14_0_Description"
+msgid "Create a level 3 carving."
+msgstr ""
+
+#: 710
+msgctxt "NEW_ACHIEVEMENT_15_0"
+msgid "Builder"
+msgstr ""
+
+#: 711
+msgctxt "NEW_ACHIEVEMENT_15_0_Description"
+msgid "Build an Ancient Pyramid."
+msgstr ""
+
+#: 712
+msgctxt "NEW_ACHIEVEMENT_16_0"
+msgid "Buildaholic"
+msgstr ""
+
+#: 713
+msgctxt "NEW_ACHIEVEMENT_16_0_Description"
+msgid "Construct all buildings."
+msgstr ""
+
+#: 714
+msgctxt "NEW_ACHIEVEMENT_17_0"
+msgid "Filthy Rich"
+msgstr ""
+
+#: 715
+msgctxt "NEW_ACHIEVEMENT_17_0_Description"
+msgid "Have more than 300 gold."
+msgstr ""
+
+#: 716
+msgctxt "NEW_ACHIEVEMENT_18_0"
+msgid "Well-Read"
+msgstr ""
+
+#: 717
+msgctxt "NEW_ACHIEVEMENT_18_0_Description"
+msgid "Obtain all different tablets."
+msgstr ""
+
+#: 718
+msgctxt "NEW_ACHIEVEMENT_19_0"
+msgid "Revival"
+msgstr ""
+
+#: 719
+msgctxt "NEW_ACHIEVEMENT_19_0_Description"
+msgid "Use a revive tablet."
+msgstr ""
+
+#: 720
+msgctxt "NEW_ACHIEVEMENT_1_0"
+msgid "Desert Warriors"
+msgstr ""
+
+#: 721
+msgctxt "NEW_ACHIEVEMENT_1_0_Description"
+msgid "Complete chapter one."
+msgstr ""
+
+#: 722
+msgctxt "NEW_ACHIEVEMENT_20_0"
+msgid "Slayer"
+msgstr ""
+
+#: 723
+msgctxt "NEW_ACHIEVEMENT_20_0_Description"
+msgid "Kill 100 enemies."
+msgstr ""
+
+#: 724
+msgctxt "NEW_ACHIEVEMENT_21_0"
+msgid "Slaughter"
+msgstr ""
+
+#: 725
+msgctxt "NEW_ACHIEVEMENT_21_0_Description"
+msgid "Kill 1000 enemies."
+msgstr ""
+
+#: 726
+msgctxt "NEW_ACHIEVEMENT_22_0"
+msgid "Divine Artifact"
+msgstr ""
+
+#: 727
+msgctxt "NEW_ACHIEVEMENT_22_0_Description"
+msgid "Obtain your first piece of legendary gear."
+msgstr ""
+
+#: 728
+msgctxt "NEW_ACHIEVEMENT_23_0"
+msgid "Oh No!"
+msgstr ""
+
+#: 729
+msgctxt "NEW_ACHIEVEMENT_23_0_Description"
+msgid "Be defeated by a boss."
+msgstr ""
+
+#: 730
+msgctxt "NEW_ACHIEVEMENT_24_0"
+msgid "3 Win-Streak"
+msgstr ""
+
+#: 731
+msgctxt "NEW_ACHIEVEMENT_24_0_Description"
+msgid "Attain three victories in a row."
+msgstr ""
+
+#: 732
+msgctxt "NEW_ACHIEVEMENT_25_0"
+msgid "What is healing?"
+msgstr ""
+
+#: 733
+msgctxt "NEW_ACHIEVEMENT_25_0_Description"
+msgid "Attain victory without ever using a restoration tablet."
+msgstr ""
+
+#: 734
+msgctxt "NEW_ACHIEVEMENT_26_0"
+msgid "Lucky Much"
+msgstr ""
+
+#: 735
+msgctxt "NEW_ACHIEVEMENT_26_0_Description"
+msgid "Attain victory while in possession of at least 7 legendary tablets."
+msgstr ""
+
+#: 736
+msgctxt "NEW_ACHIEVEMENT_27_0"
+msgid "Collector"
+msgstr ""
+
+#: 737
+msgctxt "NEW_ACHIEVEMENT_27_0_Description"
+msgid "Acquire all the different pieces of gear."
+msgstr ""
+
+#: 738
+msgctxt "NEW_ACHIEVEMENT_28_0"
+msgid "I'll buy that!"
+msgstr ""
+
+#: 739
+msgctxt "NEW_ACHIEVEMENT_28_0_Description"
+msgid "Purchase 30 pieces of gear from the Trader."
+msgstr ""
+
+#: 740
+msgctxt "NEW_ACHIEVEMENT_29_0"
+msgid "Tablets? Bah!"
+msgstr ""
+
+#: 741
+msgctxt "NEW_ACHIEVEMENT_29_0_Description"
+msgid "Attain victory with no more than two legendary tablets."
+msgstr ""
+
+#: 742
+msgctxt "NEW_ACHIEVEMENT_2_0"
+msgid "Pharaoh's Warriors"
+msgstr ""
+
+#: 743
+msgctxt "NEW_ACHIEVEMENT_2_0_Description"
+msgid "Complete chapter two."
+msgstr ""
+
+#: 744
+msgctxt "NEW_ACHIEVEMENT_30_0"
+msgid "Fearless"
+msgstr ""
+
+#: 745
+msgctxt "NEW_ACHIEVEMENT_30_0_Description"
+msgid "Kill 30 bosses."
+msgstr ""
+
+#: 746
+msgctxt "NEW_ACHIEVEMENT_31_0"
+msgid "Gearaholic"
+msgstr ""
+
+#: 747
+msgctxt "NEW_ACHIEVEMENT_31_0_Description"
+msgid "Attain victory while in the possession of at least 14 pieces of gear."
+msgstr ""
+
+#: 748
+msgctxt "NEW_ACHIEVEMENT_32_0"
+msgid "One-Man Army"
+msgstr ""
+
+#: 749
+msgctxt "NEW_ACHIEVEMENT_32_0_Description"
+msgid "Attain victory with one character having at least 20 tablets."
+msgstr ""
+
+#: 750
+msgctxt "NEW_ACHIEVEMENT_33_0"
+msgid "Equal Importance"
+msgstr ""
+
+#: 751
+msgctxt "NEW_ACHIEVEMENT_33_0_Description"
+msgid "Attain victory with each character having at least 7 tablets."
+msgstr ""
+
+#: 752
+msgctxt "NEW_ACHIEVEMENT_34_0"
+msgid "Can I use this?"
+msgstr ""
+
+#: 753
+msgctxt "NEW_ACHIEVEMENT_34_0_Description"
+msgid "Create the carving: Stone Head."
+msgstr ""
+
+#: 754
+msgctxt "NEW_ACHIEVEMENT_35_0"
+msgid "Warriors of the Nile"
+msgstr ""
+
+#: 755
+msgctxt "NEW_ACHIEVEMENT_35_0_Description"
+msgid "Complete all other achievements."
+msgstr ""
+
+#: 756
+msgctxt "NEW_ACHIEVEMENT_3_0"
+msgid "Power of the Sun"
+msgstr ""
+
+#: 757
+msgctxt "NEW_ACHIEVEMENT_3_0_Description"
+msgid "Complete chapter three."
+msgstr ""
+
+#: 758
+msgctxt "NEW_ACHIEVEMENT_4_0"
+msgid "First Victory"
+msgstr ""
+
+#: 759
+msgctxt "NEW_ACHIEVEMENT_4_0_Description"
+msgid "Win your first battle."
+msgstr ""
+
+#: 760
+msgctxt "NEW_ACHIEVEMENT_5_0"
+msgid "Prophecy Tablet"
+msgstr ""
+
+#: 761
+msgctxt "NEW_ACHIEVEMENT_5_0_Description"
+msgid "Obtain your first tablet."
+msgstr ""
+
+#: 762
+msgctxt "NEW_ACHIEVEMENT_6_0"
+msgid "Divine Tablet"
+msgstr ""
+
+#: 763
+msgctxt "NEW_ACHIEVEMENT_6_0_Description"
+msgid "Obtain your first legendary tablet."
+msgstr ""
+
+#: 764
+msgctxt "NEW_ACHIEVEMENT_7_0"
+msgid "Close Victory"
+msgstr ""
+
+#: 765
+msgctxt "NEW_ACHIEVEMENT_7_0_Description"
+msgid "Attain victory with only one character remaining."
+msgstr ""
+
+#: 766
+msgctxt "NEW_ACHIEVEMENT_8_0"
+msgid "Perfect Victory"
+msgstr ""
+
+#: 767
+msgctxt "NEW_ACHIEVEMENT_8_0_Description"
+msgid "Attain victory without any character dying."
+msgstr ""
+
+#: 768
+msgctxt "NEW_ACHIEVEMENT_9_0"
+msgid "Swift Victory"
+msgstr ""
+
+#: 769
+msgctxt "NEW_ACHIEVEMENT_9_0_Description"
+msgid "Attain victory within 45 minutes."
+msgstr ""
+
+#: 770
+msgctxt "OP_Text_01"
+msgid "In a distant age， the sun granted life to the citizens of the Nile."
+msgstr ""
+
+#: 771
+msgctxt "OP_Text_02"
+msgid "Apophis coveted its powers， thus he transformed into a serpent and"
+msgstr ""
+
+#: 772
+msgctxt "OP_Text_03"
+msgid "devoured it whole plunging the world into eternal darkness."
+msgstr ""
+
+#: 773
+msgctxt "OP_Text_04"
+msgid "The Warriors of the Nile embark on their quest to reclaim the sun and restore balance."
+msgstr ""
+
+#: 774
+msgctxt "PerkPanel_Tips"
+msgid "Choose building"
+msgstr ""
+
+#: 775
+msgctxt "Perk_Class1_01_Description"
+msgid "Unlocks three gear and rare tablets."
+msgstr ""
+
+#: 776
+msgctxt "Perk_Class1_01_Name"
+msgid "Blacksmith"
+msgstr ""
+
+#: 777
+msgctxt "Perk_Class1_02_Description"
+msgid "Unlocks three epic gear."
+msgstr ""
+
+#: 778
+msgctxt "Perk_Class1_02_Name"
+msgid "Anubis Temple"
+msgstr ""
+
+#: 779
+msgctxt "Perk_Class1_03_Description"
+msgid "Unlocks three gear and epic tablets."
+msgstr ""
+
+#: 780
+msgctxt "Perk_Class1_03_Name"
+msgid "Horus Statue"
+msgstr ""
+
+#: 781
+msgctxt "Perk_Class1_04_Description"
+msgid "Unlocks three carvings."
+msgstr ""
+
+#: 782
+msgctxt "Perk_Class1_04_Name"
+msgid "Hall of Divination"
+msgstr ""
+
+#: 783
+msgctxt "Perk_Class1_05_Description"
+msgid "Unlocks three legendary gear."
+msgstr ""
+
+#: 784
+msgctxt "Perk_Class1_05_Name"
+msgid "King's Valley"
+msgstr ""
+
+#: 785
+msgctxt "Perk_Class2_01_Description"
+msgid "Unlocks three rare tablets."
+msgstr ""
+
+#: 786
+msgctxt "Perk_Class2_01_Name"
+msgid "Obelisk"
+msgstr ""
+
+#: 787
+msgctxt "Perk_Class2_02_Description"
+msgid "Unlocks three epic tablets."
+msgstr ""
+
+#: 788
+msgctxt "Perk_Class2_02_Name"
+msgid "Isis Temple"
+msgstr ""
+
+#: 789
+msgctxt "Perk_Class2_03_Description"
+msgid "Unlocks three legendary tablets."
+msgstr ""
+
+#: 790
+msgctxt "Perk_Class2_03_Name"
+msgid "Sun Temple"
+msgstr ""
+
+#: 791
+msgctxt "Perk_Class2_04_Description"
+msgid "Unlocks three epic tablets."
+msgstr ""
+
+#: 792
+msgctxt "Perk_Class2_04_Name"
+msgid "Altar of Prophecy"
+msgstr ""
+
+#: 793
+msgctxt "Perk_Class2_05_Description"
+msgid "Unlocks three legendary tablets."
+msgstr ""
+
+#: 794
+msgctxt "Perk_Class2_05_Name"
+msgid "Pyramid"
+msgstr ""
+
+#: 795
+msgctxt "Perk_Class3_01_Description"
+msgid "Unlocks three uncommon tablets."
+msgstr ""
+
+#: 796
+msgctxt "Perk_Class3_01_Name"
+msgid "Market"
+msgstr ""
+
+#: 797
+msgctxt "Perk_Class3_02_Description"
+msgid "Sun Warrior gains 6 Health. Dune Hunter and Waste Mystic gains 2 Health."
+msgstr ""
+
+#: 798
+msgctxt "Perk_Class3_02_Name"
+msgid "Military Camp"
+msgstr ""
+
+#: 799
+msgctxt "Perk_Class3_03_Description"
+msgid "All characters gain 1 Attack Power."
+msgstr ""
+
+#: 800
+msgctxt "Perk_Class3_03_Name"
+msgid "Pharaoh Figurine"
+msgstr ""
+
+#: 801
+msgctxt "Perk_Class3_04_Description"
+msgid "Sun Warrior gains 2 Armor. Dune Hunter and Waste Mystic gains 1 Attack Power."
+msgstr ""
+
+#: 802
+msgctxt "Perk_Class3_04_Name"
+msgid "Sphinx Statue"
+msgstr ""
+
+#: 803
+msgctxt "Perk_Class3_05_Description"
+msgid "All characters gain 1 Attack Power."
+msgstr ""
+
+#: 804
+msgctxt "Perk_Class3_05_Name"
+msgid "Grand Palace"
+msgstr ""
+
+#: 805
+msgctxt "Perk_RootLevel_Description"
+msgid "Unlocks gear and carvings."
+msgstr ""
+
+#: 806
+msgctxt "Perk_RootLevel_Name"
+msgid "Ancient Pyramid"
+msgstr ""
+
+#: 807
+msgctxt "Role_Boss01_SummonName_01"
+msgid "Pharaoh Soldier"
+msgstr ""
+
+#: 808
+msgctxt "Role_Boss01_SummonName_02"
+msgid "Pharaoh Guard"
+msgstr ""
+
+#: 809
+msgctxt "Role_Boss01_SummonName_03"
+msgid "Pharaoh Hunter"
+msgstr ""
+
+#: 810
+msgctxt "Role_Boss01_SummonName_04"
+msgid "Pharaoh Brave"
+msgstr ""
+
+#: 811
+msgctxt "Role_Boss02_SummonName"
+msgid "Lion"
+msgstr ""
+
+#: 812
+msgctxt "Role_BossName_01"
+msgid "Restless Pharaoh"
+msgstr ""
+
+#: 813
+msgctxt "Role_BossName_02_01_Lion"
+msgid "Lion Brave"
+msgstr ""
+
+#: 814
+msgctxt "Role_BossName_02_01_human"
+msgid "Mystic Acolyte"
+msgstr ""
+
+#: 815
+msgctxt "Role_BossName_02_02_Lion"
+msgid "Lion Hunter"
+msgstr ""
+
+#: 816
+msgctxt "Role_BossName_02_02_human"
+msgid "Ritualist"
+msgstr ""
+
+#: 817
+msgctxt "Role_BossName_03"
+msgid "Warlord"
+msgstr ""
+
+#: 818
+msgctxt "Role_BossName_04_SummonName_01"
+msgid "Set Brave"
+msgstr ""
+
+#: 819
+msgctxt "Role_BossName_04_SummonName_02"
+msgid "Set Hunter"
+msgstr ""
+
+#: 820
+msgctxt "Role_BossName_04_SummonName_03"
+msgid "Set Ritualist"
+msgstr ""
+
+#: 821
+msgctxt "Role_BossName_04_box"
+msgid "Set Sarcophagus"
+msgstr ""
+
+#: 822
+msgctxt "Role_BossName_04_human"
+msgid "Set Incarnation"
+msgstr ""
+
+#: 823
+msgctxt "Role_BossName_05"
+msgid "Scorpion Queen"
+msgstr ""
+
+#: 824
+msgctxt "Role_BossName_05_Guard"
+msgid "Mystic Scorpion"
+msgstr ""
+
+#: 825
+msgctxt "Role_BossName_05_SummonName_01"
+msgid "Mirage Scorpion"
+msgstr ""
+
+#: 826
+msgctxt "Role_BossName_05_SummonName_02"
+msgid "Crystal Scorpion"
+msgstr ""
+
+#: 827
+msgctxt "Role_BossName_05_SummonName_03"
+msgid "Demon Scorpion"
+msgstr ""
+
+#: 828
+msgctxt "Role_BossName_06"
+msgid "Khonsu"
+msgstr ""
+
+#: 829
+msgctxt "Role_BossName_06_SummonName_01"
+msgid "Khonsu Incarnation"
+msgstr ""
+
+#: 830
+msgctxt "Role_BossName_06_SummonName_02"
+msgid "Khonsu Mirage"
+msgstr ""
+
+#: 831
+msgctxt "Role_BossName_06_SummonName_03"
+msgid "Khonsu Shadow"
+msgstr ""
+
+#: 832
+msgctxt "Role_BossName_07_01"
+msgid "Wadjet Incarnation"
+msgstr ""
+
+#: 833
+msgctxt "Role_BossName_07_02"
+msgid "Apophis"
+msgstr ""
+
+#: 834
+msgctxt "Role_BossName_07_SnakeMonster_01"
+msgid "Wadjet's Left Eye"
+msgstr ""
+
+#: 835
+msgctxt "Role_BossName_07_SnakeMonster_02"
+msgid "Wadjet's Right Eye"
+msgstr ""
+
+#: 836
+msgctxt "Role_BossName_07_SummonName_01"
+msgid "Acolyte Cobra"
+msgstr ""
+
+#: 837
+msgctxt "Role_BossName_07_SummonName_02"
+msgid "Shadow Cobra"
+msgstr ""
+
+#: 838
+msgctxt "Role_BossName_07_SummonName_03"
+msgid "Terror Cobra"
+msgstr ""
+
+#: 839
+msgctxt "Role_BossName_07_SummonName_04"
+msgid "Acolyte Cobra Guard"
+msgstr ""
+
+#: 840
+msgctxt "Role_BossName_07_SummonName_05"
+msgid "Shadow Cobra Guard"
+msgstr ""
+
+#: 841
+msgctxt "Role_BossName_07_SummonName_06"
+msgid "Terror Cobra Guard"
+msgstr ""
+
+#: 842
+msgctxt "Role_BossName_07_Tower"
+msgid "Wadjet Statue"
+msgstr ""
+
+#: 843
+msgctxt "Role_EnemyName_01"
+msgid "Red Scorpion"
+msgstr ""
+
+#: 844
+msgctxt "Role_EnemyName_02"
+msgid "Golden Scorpion"
+msgstr ""
+
+#: 845
+msgctxt "Role_EnemyName_03"
+msgid "Black Scorpion"
+msgstr ""
+
+#: 846
+msgctxt "Role_EnemyName_04"
+msgid "Komodo Dragon"
+msgstr ""
+
+#: 847
+msgctxt "Role_EnemyName_05"
+msgid "Lizard"
+msgstr ""
+
+#: 848
+msgctxt "Role_EnemyName_06"
+msgid "Flame Lizard"
+msgstr ""
+
+#: 849
+msgctxt "Role_EnemyName_07"
+msgid "Bandit"
+msgstr ""
+
+#: 850
+msgctxt "Role_EnemyName_08"
+msgid "Brute"
+msgstr ""
+
+#: 851
+msgctxt "Role_EnemyName_09"
+msgid "Ritualist Puppet"
+msgstr ""
+
+#: 852
+msgctxt "Role_EnemyName_10"
+msgid "Priestess"
+msgstr ""
+
+#: 853
+msgctxt "Role_EnemyName_11"
+msgid "Hunter"
+msgstr ""
+
+#: 854
+msgctxt "Role_EnemyName_12"
+msgid "Wadjet Ritualist"
+msgstr ""
+
+#: 855
+msgctxt "Role_EnemyName_13"
+msgid "Warrior"
+msgstr ""
+
+#: 856
+msgctxt "Role_EnemyName_14"
+msgid "Sniper"
+msgstr ""
+
+#: 857
+msgctxt "Role_EnemyName_15"
+msgid "Foot Soldier"
+msgstr ""
+
+#: 858
+msgctxt "Role_EnemyName_16"
+msgid "Fighter"
+msgstr ""
+
+#: 859
+msgctxt "Role_EnemyName_17"
+msgid "Elite Reaper"
+msgstr ""
+
+#: 860
+msgctxt "Role_EnemyName_18"
+msgid "Elite Spearman"
+msgstr ""
+
+#: 861
+msgctxt "Role_EnemyName_19"
+msgid "Elite Warrior"
+msgstr ""
+
+#: 862
+msgctxt "Role_EnemyName_20"
+msgid "Acolyte"
+msgstr ""
+
+#: 863
+msgctxt "Role_EnemyName_21"
+msgid "Slayer"
+msgstr ""
+
+#: 864
+msgctxt "Role_EnemyName_23"
+msgid "War Scorpion"
+msgstr ""
+
+#: 865
+msgctxt "Role_EnemyName_25"
+msgid "Golden Scarab"
+msgstr ""
+
+#: 866
+msgctxt "Role_EnemyName_26"
+msgid "Grave Robber"
+msgstr ""
+
+#: 867
+msgctxt "Role_EnemyName_27"
+msgid "Timed Cobra Egg"
+msgstr ""
+
+#: 868
+msgctxt "Role_Enemy_Lv2_Name_01"
+msgid "Mummy Spearman"
+msgstr ""
+
+#: 869
+msgctxt "Role_Enemy_Lv2_Name_02"
+msgid "Mummy Guardian"
+msgstr ""
+
+#: 870
+msgctxt "Role_Enemy_Lv2_Name_03"
+msgid "Osiris Vassal"
+msgstr ""
+
+#: 871
+msgctxt "Role_Enemy_Lv2_Name_04"
+msgid "Osiris Guardian"
+msgstr ""
+
+#: 872
+msgctxt "Role_Enemy_Lv2_Name_05"
+msgid "Bursting Mummy"
+msgstr ""
+
+#: 873
+msgctxt "Role_Enemy_Lv2_Name_06"
+msgid "Destruction Mummy"
+msgstr ""
+
+#: 874
+msgctxt "Role_Enemy_Lv2_Name_07"
+msgid "Death Ritualist"
+msgstr ""
+
+#: 875
+msgctxt "Role_Enemy_Lv2_Name_08"
+msgid "Mausoleum Seer"
+msgstr ""
+
+#: 876
+msgctxt "Role_Enemy_Lv2_Name_09"
+msgid "Sobek Berserker"
+msgstr ""
+
+#: 877
+msgctxt "Role_Enemy_Lv2_Name_10"
+msgid "Sobek Guard"
+msgstr ""
+
+#: 878
+msgctxt "Role_Enemy_Lv2_Name_11"
+msgid "Cobra"
+msgstr ""
+
+#: 879
+msgctxt "Role_Enemy_Lv2_Name_12"
+msgid "Petrified Cobra"
+msgstr ""
+
+#: 880
+msgctxt "Role_Enemy_Lv2_Name_13"
+msgid "King Cobra"
+msgstr ""
+
+#: 881
+msgctxt "Role_Enemy_Lv2_Name_14"
+msgid "Sleepwalking Mummy"
+msgstr ""
+
+#: 882
+msgctxt "Role_Enemy_Lv2_Name_15"
+msgid "Sleepwalking Archon"
+msgstr ""
+
+#: 883
+msgctxt "Role_Enemy_Lv2_Name_16"
+msgid "Sleepwalking Pharaoh"
+msgstr ""
+
+#: 884
+msgctxt "Role_Enemy_Lv2_Name_17"
+msgid "Mummy Archer"
+msgstr ""
+
+#: 885
+msgctxt "Role_Enemy_Lv2_Name_18"
+msgid "Mausoleum Slayer"
+msgstr ""
+
+#: 886
+msgctxt "Role_Enemy_Lv2_Name_19"
+msgid "Ancestral Archer"
+msgstr ""
+
+#: 887
+msgctxt "Role_Enemy_Lv2_Name_20"
+msgid "Ancestral Arbalester"
+msgstr ""
+
+#: 888
+msgctxt "Role_Enemy_Lv2_Name_21"
+msgid "Ancestral Golem"
+msgstr ""
+
+#: 889
+msgctxt "Role_Enemy_Lv2_Name_22"
+msgid "Ancestral Mystic"
+msgstr ""
+
+#: 890
+msgctxt "Role_Enemy_Lv3_Name_01"
+msgid "Serpent Guard"
+msgstr ""
+
+#: 891
+msgctxt "Role_Enemy_Lv3_Name_02"
+msgid "Serpent Ritualist"
+msgstr ""
+
+#: 892
+msgctxt "Role_Enemy_Lv3_Name_03"
+msgid "Serpent Warrior"
+msgstr ""
+
+#: 893
+msgctxt "Role_Enemy_Lv3_Name_04"
+msgid "Serpent Seer"
+msgstr ""
+
+#: 894
+msgctxt "Role_Enemy_Lv3_Name_05"
+msgid "Horror Warlock"
+msgstr ""
+
+#: 895
+msgctxt "Role_Enemy_Lv3_Name_06"
+msgid "Horror Warrior"
+msgstr ""
+
+#: 896
+msgctxt "Role_Enemy_Lv3_Name_07"
+msgid "Elite Serpent Guard"
+msgstr ""
+
+#: 897
+msgctxt "Role_Enemy_Lv3_Name_08"
+msgid "Elite Serpent Spearman"
+msgstr ""
+
+#: 898
+msgctxt "Role_Enemy_Lv3_Name_09"
+msgid "Horror Sentry"
+msgstr ""
+
+#: 899
+msgctxt "Role_Enemy_Lv3_Name_10"
+msgid "Bone Devourer"
+msgstr ""
+
+#: 900
+msgctxt "Role_Enemy_Lv3_Name_11"
+msgid "Horror Golem"
+msgstr ""
+
+#: 901
+msgctxt "Role_Enemy_Lv3_Name_12"
+msgid "Horror Watcher"
+msgstr ""
+
+#: 902
+msgctxt "Role_HeroName_01"
+msgid "Sun Warrior"
+msgstr ""
+
+#: 903
+msgctxt "Role_HeroName_02"
+msgid "Dune Hunter"
+msgstr ""
+
+#: 904
+msgctxt "Role_HeroName_03"
+msgid "Waste Mystic"
+msgstr ""
+
+#: 905
+msgctxt "Salt Name_01"
+msgid "Ismet Lee"
+msgstr ""
+
+#: 906
+msgctxt "Salt Name_02"
+msgid "Tan Yu"
+msgstr ""
+
+#: 907
+msgctxt "Salt Name_03"
+msgid "Jason Huang"
+msgstr ""
+
+#: 908
+msgctxt "Salt Name_04"
+msgid "KonstantinR"
+msgstr ""
+
+#: 909
+msgctxt "Salt Name_05"
+msgid "FankiMankiz"
+msgstr ""
+
+#: 910
+msgctxt "Salt Name_06"
+msgid "WormsTeam"
+msgstr ""
+
+#: 911
+msgctxt "Salt Name_07"
+msgid "iCENTURY"
+msgstr ""
+
+#: 912
+msgctxt "Salt Name_08"
+msgid "Pegasus"
+msgstr ""
+
+#: 913
+msgctxt "SetPanel_AutoSaveTips"
+msgid "Game is auto save"
+msgstr ""
+
+#: 914
+msgctxt "SetPanel_FullScreen"
+msgid "FullScreen"
+msgstr ""
+
+#: 915
+msgctxt "SetPanel_GiveUpTips"
+msgid "Hold to confirm"
+msgstr ""
+
+#: 916
+msgctxt "SetPanel_Language"
+msgid "Language"
+msgstr "언어"
+
+#: 917
+msgctxt "SetPanel_Resolution"
+msgid "Resolution"
+msgstr "해상도"
+
+#: 918
+msgctxt "SetPanel_SoundBgm"
+msgid "Bgm"
+msgstr "효과음"
+
+#: 919
+msgctxt "SetPanel_SoundMain"
+msgid "Volume"
+msgstr "볼륨"
+
+#: 920
+msgctxt "SetPanel_SoundSfx"
+msgid "Sound"
+msgstr "사운드"
+
+#: 921
+msgctxt "SetPanel_Tittle"
+msgid "Setting"
+msgstr "설정"
+
+#: 922
+msgctxt "ShopPanel_AlreadyBought_Tips"
+msgid "Bought"
+msgstr ""
+
+#: 923
+msgctxt "ShopPanel_DoubleClick_Tips"
+msgid "Click again to confirm"
+msgstr ""
+
+#: 924
+msgctxt "ShopPanel_SelectItem_Tips"
+msgid "Choose item"
+msgstr ""
+
+#: 925
+msgctxt "Staff_SkipTips"
+msgid "Click again to skip…"
+msgstr ""
+
+#: 926
+msgctxt "Stove Name_01"
+msgid "Chaudiere"
+msgstr ""
+
+#: 927
+msgctxt "Stove Name_02"
+msgid "JiChao"
+msgstr ""
+
+#: 928
+msgctxt "Stove Name_03"
+msgid "XiangQian"
+msgstr ""
+
+#: 929
+msgctxt "Stove Name_04"
+msgid "Eosin Y"
+msgstr ""
+
+#: 930
+msgctxt "Stove Name_05"
+msgid "bakaDog"
+msgstr ""
+
+#: 931
+msgctxt "TagButton_Name1"
+msgid "All Runs"
+msgstr ""
+
+#: 932
+msgctxt "TagButton_Name2"
+msgid "Wins"
+msgstr ""
+
+#: 933
+msgctxt "TagButton_Name3"
+msgid "Defeats"
+msgstr ""
+
+#: 934
+msgctxt "Thanks_Name_01"
+msgid "Wizard_hanyan"
+msgstr ""
+
+#: 935
+msgctxt "Thanks_Name_02"
+msgid "hakugumo"
+msgstr ""
+
+#: 936
+msgctxt "Thanks_Name_03"
+msgid "duckbill"
+msgstr ""
+
+#: 937
+msgctxt "Thanks_Name_04"
+msgid "HeXiao"
+msgstr ""
+
+#: 938
+msgctxt "Thanks_Name_05"
+msgid "Thorham"
+msgstr ""
+
+#: 939
+msgctxt "Thanks_Name_06"
+msgid "AiurTemplar"
+msgstr ""
+
+#: 940
+msgctxt "Thanks_Name_07"
+msgid "Moeinside John.v"
+msgstr ""
+
+#: 941
+msgctxt "Thanks_Name_08"
+msgid "Stevenyan"
+msgstr ""
+
+#: 942
+msgctxt "Thanks_Name_09"
+msgid "Faversona"
+msgstr ""
+
+#: 943
+msgctxt "Thanks_Name_10"
+msgid "Fred"
+msgstr ""
+
+#: 944
+msgctxt "Thanks_Name_11"
+msgid "Kamiriya"
+msgstr ""
+
+#: 945
+msgctxt "Thanks_Name_14"
+msgid "Cymanson"
+msgstr ""
+
+#: 946
+msgctxt "Thanks_Name_15"
+msgid "YangKai"
+msgstr ""
+
+#: 947
+msgctxt "TutorialArcher_Text_01"
+msgid "The Dune Hunter is an agile long-ranged unit."
+msgstr ""
+
+#: 948
+msgctxt "TutorialArcher_Text_02"
+msgid "It can attack enemies up to 2-3 grids away， without ever getting near the enemy."
+msgstr ""
+
+#: 949
+msgctxt "TutorialArcher_Text_03"
+msgid "Its initial skill tablet is 'Shoot'. Shoot deals 4 additional damage against targets that are further than 2 grids away."
+msgstr ""
+
+#: 950
+msgctxt "TutorialArcher_Text_04"
+msgid "Attacks against enemies 2 grids away deal no additional damage."
+msgstr ""
+
+#: 951
+msgctxt "TutorialArcher_Text_05"
+msgid "Attacks against enemies further than 2 grids away deal additional damage."
+msgstr ""
+
+#: 952
+msgctxt "TutorialArcher_Tittle"
+msgid "Dune Hunter"
+msgstr ""
+
+#: 953
+msgctxt "TutorialMage_Text_01"
+msgid "The Waste Mystic is a magician capable of attacking from afar， but it cannot attack after moving."
+msgstr ""
+
+#: 954
+msgctxt "TutorialMage_Text_02"
+msgid "It cannot attack after moving."
+msgstr ""
+
+#: 955
+msgctxt "TutorialMage_Text_03"
+msgid "No Attack Range will be displayed after the Waste Mystic has moved."
+msgstr ""
+
+#: 956
+msgctxt "TutorialMage_Text_04"
+msgid "Instead you will need to click 'Wait' to end its turn."
+msgstr ""
+
+#: 957
+msgctxt "TutorialMage_Text_05"
+msgid "To attack with Waste Mystic， you must instead click at the grid it is standing before moving."
+msgstr ""
+
+#: 958
+msgctxt "TutorialMage_Text_06"
+msgid "Clicking the grid it is standing upon"
+msgstr ""
+
+#: 959
+msgctxt "TutorialMage_Text_07"
+msgid "will display its Attack Range."
+msgstr ""
+
+#: 960
+msgctxt "TutorialMage_Text_08"
+msgid "Then， you simply click an enemy to attack it."
+msgstr ""
+
+#: 961
+msgctxt "TutorialMage_Text_09"
+msgid "The Waste Mystic's initial skill tablet is Holy Shield: If you do not move during your turn， gain 6 Temporary Armor. Temporary Armor only last for one turn and disappear at the start of the following turn."
+msgstr ""
+
+#: 962
+msgctxt "TutorialMage_Text_10"
+msgid "Attacking with Waste Mystic does not count as having moved."
+msgstr ""
+
+#: 963
+msgctxt "TutorialMage_Text_11"
+msgid "Triggering Light Shield grants 6 additional Temporary Armor."
+msgstr ""
+
+#: 964
+msgctxt "TutorialMage_Tittle"
+msgid "Waste Mystic"
+msgstr ""
+
+#: 965
+msgctxt "TutorialWarrior_Text_01"
+msgid "Moving your characters:"
+msgstr ""
+
+#: 966
+msgctxt "TutorialWarrior_Text_02"
+msgid "Clicking on a character shows you how far it can move."
+msgstr ""
+
+#: 967
+msgctxt "TutorialWarrior_Text_03"
+msgid "Then click on the grid you wish to move to，"
+msgstr ""
+
+#: 968
+msgctxt "TutorialWarrior_Text_04"
+msgid "and the character will heed your command."
+msgstr ""
+
+#: 969
+msgctxt "TutorialWarrior_Text_05"
+msgid "Attacking:"
+msgstr ""
+
+#: 970
+msgctxt "TutorialWarrior_Text_06"
+msgid "A character's Attack Range will be displayed after it has moved."
+msgstr ""
+
+#: 971
+msgctxt "TutorialWarrior_Text_07"
+msgid "Placing your cursor at an enemy within Attack Range shows you the result of that attack."
+msgstr ""
+
+#: 972
+msgctxt "TutorialWarrior_Text_08"
+msgid "Click an enemy to attack it."
+msgstr ""
+
+#: 973
+msgctxt "TutorialWarrior_Text_09"
+msgid "The Sun Warrior is the strongest melee character and has the ability to restore his Armor."
+msgstr ""
+
+#: 974
+msgctxt "TutorialWarrior_Text_10"
+msgid "When enemies attack， Armor is deducted first， and then Health."
+msgstr ""
+
+#: 975
+msgctxt "TutorialWarrior_Text_11"
+msgid "Armor is fully restored to its initial value at the start of each turn."
+msgstr ""
+
+#: 976
+msgctxt "TutorialWarrior_Text_12"
+msgid "Aim to soak as much damage with Armor as possible."
+msgstr ""
+
+#: 977
+msgctxt "TutorialWarrior_Tittle"
+msgid "Sun Warrior"
+msgstr ""
+
+#: 978
+msgctxt "buttonSurrenderSprite0"
+msgid "Tex/LanguageButtonImages/En/img_SetUI_ButtonSurrender_0_En"
+msgstr ""
+
+#: 979
+msgctxt "buttonSurrenderSprite1"
+msgid "Tex/LanguageButtonImages/En/img_SetUI_ButtonSurrender_1_En"
+msgstr ""
+
+#: 980
+msgctxt "buttonSurrenderSprite2"
+msgid "Tex/LanguageButtonImages/En/img_SetUI_ButtonSurrender_2_En"
+msgstr ""
+
+#: 981
+msgctxt "position_01"
+msgid "Developer"
+msgstr ""
+
+#: 982
+msgctxt "position_02"
+msgid "Publisher"
+msgstr ""
+
+#: 983
+msgctxt "position_03"
+msgid "Game Producer"
+msgstr ""
+
+#: 984
+msgctxt "position_04"
+msgid "Programmer"
+msgstr ""
+
+#: 985
+msgctxt "position_05"
+msgid "Artist"
+msgstr ""
+
+#: 986
+msgctxt "position_06"
+msgid "Composer"
+msgstr ""
+
+#: 987
+msgctxt "position_07"
+msgid "Audio Integrator"
+msgstr ""
+
+#: 988
+msgctxt "position_08"
+msgid "Sound Designer"
+msgstr ""
+
+#: 989
+msgctxt "position_09"
+msgid "Thanks"
+msgstr ""
+
+#: 990
+msgctxt "position_10"
+msgid "Special Thanks"
+msgstr ""
+
