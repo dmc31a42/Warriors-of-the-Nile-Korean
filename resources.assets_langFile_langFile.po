@@ -4566,7 +4566,7 @@ msgstr ""
 #: 914
 msgctxt "SetPanel_FullScreen"
 msgid "FullScreen"
-msgstr "전체화면
+msgstr "전체화면"
 
 #: 915
 msgctxt "SetPanel_GiveUpTips"
